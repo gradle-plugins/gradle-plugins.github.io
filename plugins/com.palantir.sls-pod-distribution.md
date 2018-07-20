@@ -1,5 +1,6 @@
 ---
 layout: plugin
-{path: /Users/daniel/gradle/gradle-plugins/gradle-plugins/build/analysisReport/com.palantir.sls-pod-distribution.json}
+pluginId: com.palantir.sls-pod-distribution
+violations: []
 
 ---

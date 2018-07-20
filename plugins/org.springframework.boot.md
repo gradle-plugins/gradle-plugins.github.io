@@ -1,5 +1,12 @@
 ---
 layout: plugin
-{path: /Users/daniel/gradle/gradle-plugins/gradle-plugins/build/analysisReport/org.springframework.boot.json}
+pluginId: org.springframework.boot
+violations:
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/copy/CopyAction;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/copy/FileCopyDetailsInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/IConventionAware}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/IConventionAware}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/artifacts/publish/ArchivePublishArtifact}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/artifacts/publish/ArchivePublishArtifact}
 
 ---
