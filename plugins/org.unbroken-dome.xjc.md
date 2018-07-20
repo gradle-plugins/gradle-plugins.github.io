@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.unbroken-dome.xjc
 isJarAvailable: true
 error: ''
 violations: []

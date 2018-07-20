@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cn.bestwu.app
 isJarAvailable: true
 error: ''
 violations: []

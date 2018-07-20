@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: kante.goose.migration
 isJarAvailable: true
 error: ''
 violations: []

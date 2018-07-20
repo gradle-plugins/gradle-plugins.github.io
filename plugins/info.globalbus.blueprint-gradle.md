@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: info.globalbus.blueprint-gradle
 isJarAvailable: true
 error: ''
 violations: []

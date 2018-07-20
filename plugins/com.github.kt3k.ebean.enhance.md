@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.kt3k.ebean.enhance
 isJarAvailable: true
 error: ''
 violations: []

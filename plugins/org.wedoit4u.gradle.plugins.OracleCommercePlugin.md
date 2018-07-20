@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.wedoit4u.gradle.plugins.OracleCommercePlugin
 isJarAvailable: true
 error: ''
 violations: []

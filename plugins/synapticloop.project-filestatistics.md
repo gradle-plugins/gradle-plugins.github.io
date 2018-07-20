@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: synapticloop.project-filestatistics
 isJarAvailable: true
 error: ''
 violations: []

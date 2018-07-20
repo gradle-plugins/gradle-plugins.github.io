@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.jgriff.virgo.assembly
 isJarAvailable: true
 error: ''
 violations: []

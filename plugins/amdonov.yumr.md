@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: amdonov.yumr
 isJarAvailable: true
 error: ''
 violations: []

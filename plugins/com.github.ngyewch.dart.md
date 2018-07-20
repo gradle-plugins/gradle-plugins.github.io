@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.ngyewch.dart
 isJarAvailable: true
 error: ''
 violations: []

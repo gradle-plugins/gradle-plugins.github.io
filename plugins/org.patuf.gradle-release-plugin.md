@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.patuf.gradle-release-plugin
 isJarAvailable: true
 error: ''
 violations: []

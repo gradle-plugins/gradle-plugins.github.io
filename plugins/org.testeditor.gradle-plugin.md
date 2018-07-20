@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.testeditor.gradle-plugin
 isJarAvailable: true
 error: ''
 violations: []

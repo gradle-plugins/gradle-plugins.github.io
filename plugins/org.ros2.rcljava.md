@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.ros2.rcljava
 isJarAvailable: true
 error: ''
 violations: []

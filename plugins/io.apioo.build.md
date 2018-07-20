@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.apioo.build
 isJarAvailable: true
 error: ''
 violations: []

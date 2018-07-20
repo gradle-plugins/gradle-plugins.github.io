@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.lv.weblogic
 isJarAvailable: true
 error: ''
 violations: []

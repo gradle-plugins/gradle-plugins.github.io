@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.betomorrow.gradle.application.XamarinApplicationPlugin
 isJarAvailable: true
 error: ''
 violations: []

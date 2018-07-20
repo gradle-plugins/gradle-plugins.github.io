@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: info.solidsoft.pitest
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nebula.maven-dependencies
 isJarAvailable: true
 error: ''
 violations: []

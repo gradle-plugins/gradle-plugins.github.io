@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: pt.simdea.verifier
 isJarAvailable: true
 error: ''
 violations: []

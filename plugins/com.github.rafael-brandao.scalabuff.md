@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.rafael-brandao.scalabuff
 isJarAvailable: true
 error: ''
 violations: []

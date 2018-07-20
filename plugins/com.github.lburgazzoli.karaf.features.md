@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.lburgazzoli.karaf.features
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.praqma.vi
 isJarAvailable: true
 error: ''
 violations: []

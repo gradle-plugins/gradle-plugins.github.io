@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ru.myweek-end.freemarker-lib
 isJarAvailable: true
 error: ''
 violations: []

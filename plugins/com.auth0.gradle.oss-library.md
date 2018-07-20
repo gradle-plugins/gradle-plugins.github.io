@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.auth0.gradle.oss-library
 isJarAvailable: true
 error: ''
 violations: []

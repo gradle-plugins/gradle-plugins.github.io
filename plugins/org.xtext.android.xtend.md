@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.xtext.android.xtend
 isJarAvailable: true
 error: ''
 violations: []

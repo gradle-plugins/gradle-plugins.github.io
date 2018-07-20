@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.github.amarcinkowski.eclipse-php
 isJarAvailable: true
 error: ''
 violations: []

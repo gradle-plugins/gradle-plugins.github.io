@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ch.tutteli.settings
 isJarAvailable: true
 error: ''
 violations: []

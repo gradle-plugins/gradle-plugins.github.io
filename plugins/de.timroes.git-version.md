@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.timroes.git-version
 isJarAvailable: true
 error: ''
 violations: []

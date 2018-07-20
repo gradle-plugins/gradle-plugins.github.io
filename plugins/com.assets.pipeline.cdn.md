@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.assets.pipeline.cdn
 isJarAvailable: true
 error: ''
 violations: []

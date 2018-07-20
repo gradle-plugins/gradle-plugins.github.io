@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.qameta.allure
 isJarAvailable: true
 error: ''
 violations: []

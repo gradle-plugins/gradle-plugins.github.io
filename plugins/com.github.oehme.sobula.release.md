@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.oehme.sobula.release
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.jetbrains.kotlin.plugin.jpa
 isJarAvailable: true
 error: ''
 violations: []

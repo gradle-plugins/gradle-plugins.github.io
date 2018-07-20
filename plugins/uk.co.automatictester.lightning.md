@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: uk.co.automatictester.lightning
 isJarAvailable: true
 error: ''
 violations: []

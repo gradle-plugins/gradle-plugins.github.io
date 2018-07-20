@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cwoongc.DMG
 isJarAvailable: true
 error: ''
 violations: []

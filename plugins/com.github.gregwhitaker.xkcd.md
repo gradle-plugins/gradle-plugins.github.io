@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.gregwhitaker.xkcd
 isJarAvailable: true
 error: ''
 violations: []

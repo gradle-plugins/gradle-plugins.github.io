@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: jp.classmethod.aws.route53
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.shopify.rocky
 isJarAvailable: true
 error: ''
 violations: []

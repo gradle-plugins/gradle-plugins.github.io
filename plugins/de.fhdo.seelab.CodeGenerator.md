@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.fhdo.seelab.CodeGenerator
 isJarAvailable: true
 error: ''
 violations: []

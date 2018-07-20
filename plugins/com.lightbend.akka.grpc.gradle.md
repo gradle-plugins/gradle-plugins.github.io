@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.lightbend.akka.grpc.gradle
 isJarAvailable: true
 error: ''
 violations: []

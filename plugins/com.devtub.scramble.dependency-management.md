@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.devtub.scramble.dependency-management
 isJarAvailable: true
 error: ''
 violations: []

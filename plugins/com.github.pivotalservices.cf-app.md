@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.pivotalservices.cf-app
 isJarAvailable: true
 error: ''
 violations: []

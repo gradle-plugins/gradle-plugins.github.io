@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.fuchs.gradle.classpath-collision-detector
 isJarAvailable: true
 error: ''
 violations: []

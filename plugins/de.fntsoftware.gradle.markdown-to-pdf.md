@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.fntsoftware.gradle.markdown-to-pdf
 isJarAvailable: true
 error: ''
 violations: []

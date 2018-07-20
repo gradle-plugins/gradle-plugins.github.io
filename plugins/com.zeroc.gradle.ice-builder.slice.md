@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.zeroc.gradle.ice-builder.slice
 isJarAvailable: true
 error: ''
 violations: []

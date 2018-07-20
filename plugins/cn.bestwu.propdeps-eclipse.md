@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cn.bestwu.propdeps-eclipse
 isJarAvailable: true
 error: ''
 violations: []

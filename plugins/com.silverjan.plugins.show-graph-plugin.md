@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.silverjan.plugins.show-graph-plugin
 isJarAvailable: true
 error: ''
 violations: []

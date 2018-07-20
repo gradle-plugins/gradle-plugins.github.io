@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: jaci.openrio.cpp.gradle.GradleRIO-C
 isJarAvailable: true
 error: ''
 violations: []

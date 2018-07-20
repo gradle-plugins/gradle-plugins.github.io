@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.marksandspencer.system-test
 isJarAvailable: true
 error: ''
 violations: []

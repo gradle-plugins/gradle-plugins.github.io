@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ws.doerr.projects.emailtemplates.gradleplugin
 isJarAvailable: true
 error: ''
 violations: []

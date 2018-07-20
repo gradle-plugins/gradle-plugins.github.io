@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.skjolber.json-log-domain
 isJarAvailable: true
 error: ''
 violations: []

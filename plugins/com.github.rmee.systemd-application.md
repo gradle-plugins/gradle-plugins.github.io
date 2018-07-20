@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.rmee.systemd-application
 isJarAvailable: true
 error: ''
 violations: []

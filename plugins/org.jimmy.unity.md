@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.jimmy.unity
 isJarAvailable: true
 error: ''
 violations: []

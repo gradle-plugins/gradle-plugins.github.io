@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.snobot.simulator.plugin.SnobotSimulatorPlugin
 isJarAvailable: true
 error: ''
 violations: []

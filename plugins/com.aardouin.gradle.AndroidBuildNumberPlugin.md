@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.aardouin.gradle.AndroidBuildNumberPlugin
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.github.divinespear.jpa-schema-generate
 isJarAvailable: true
 error: ''
 violations: []

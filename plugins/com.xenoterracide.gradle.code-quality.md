@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.xenoterracide.gradle.code-quality
 isJarAvailable: true
 error: ''
 violations: []

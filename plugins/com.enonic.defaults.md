@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.enonic.defaults
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.intrepid.static-analysis
 isJarAvailable: true
 error: ''
 violations: []

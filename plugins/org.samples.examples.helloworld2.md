@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.samples.examples.helloworld2
 isJarAvailable: true
 error: ''
 violations: []

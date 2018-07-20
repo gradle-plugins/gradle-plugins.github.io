@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.mockito.release-tools.auto-versioning
 isJarAvailable: true
 error: ''
 violations: []

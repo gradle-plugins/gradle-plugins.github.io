@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: co.tomlee.standard.java.tool
 isJarAvailable: true
 error: ''
 violations: []

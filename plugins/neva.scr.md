@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: neva.scr
 isJarAvailable: true
 error: ''
 violations: []

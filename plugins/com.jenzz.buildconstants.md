@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.jenzz.buildconstants
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.vanniktech.android.javadoc.library
 isJarAvailable: true
 error: ''
 violations: []

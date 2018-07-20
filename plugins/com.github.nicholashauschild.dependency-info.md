@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.nicholashauschild.dependency-info
 isJarAvailable: true
 error: ''
 violations: []

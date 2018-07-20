@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.db.vz.msintplugin
 isJarAvailable: true
 error: ''
 violations: []

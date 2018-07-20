@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.zoltu.simple-gradle-plugin-publisher
 isJarAvailable: true
 error: ''
 violations: []

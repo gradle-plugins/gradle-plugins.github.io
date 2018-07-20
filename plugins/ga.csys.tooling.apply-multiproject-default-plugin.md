@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ga.csys.tooling.apply-multiproject-default-plugin
 isJarAvailable: true
 error: ''
 violations: []

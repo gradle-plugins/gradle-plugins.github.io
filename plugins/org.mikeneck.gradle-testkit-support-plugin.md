@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.mikeneck.gradle-testkit-support-plugin
 isJarAvailable: true
 error: ''
 violations: []

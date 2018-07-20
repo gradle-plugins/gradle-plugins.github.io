@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.shoebox.haxe
 isJarAvailable: true
 error: ''
 violations: []

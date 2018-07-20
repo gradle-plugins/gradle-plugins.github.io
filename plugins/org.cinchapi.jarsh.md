@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.cinchapi.jarsh
 isJarAvailable: true
 error: ''
 violations: []

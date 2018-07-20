@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.akhikhl.wuff.eclipse-equinox-app
 isJarAvailable: true
 error: ''
 violations: []

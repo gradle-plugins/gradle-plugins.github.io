@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.noveogroup.android.check
 isJarAvailable: true
 error: ''
 violations: []

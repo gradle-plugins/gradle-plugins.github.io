@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.sdkman.vendors
 isJarAvailable: true
 error: ''
 violations: []

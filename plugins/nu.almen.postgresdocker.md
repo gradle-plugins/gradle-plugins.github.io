@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nu.almen.postgresdocker
 isJarAvailable: true
 error: ''
 violations: []

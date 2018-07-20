@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.blogspot.nombre-temp.replace.tokens.resources
 isJarAvailable: true
 error: ''
 violations: []

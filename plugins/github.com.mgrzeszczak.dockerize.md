@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: github.com.mgrzeszczak.dockerize
 isJarAvailable: true
 error: ''
 violations: []

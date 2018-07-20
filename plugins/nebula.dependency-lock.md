@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nebula.dependency-lock
 isJarAvailable: true
 error: ''
 violations: []

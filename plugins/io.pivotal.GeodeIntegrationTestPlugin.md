@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.pivotal.GeodeIntegrationTestPlugin
 isJarAvailable: true
 error: ''
 violations: []

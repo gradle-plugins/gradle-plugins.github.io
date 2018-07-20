@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: se.thinkcode.demo.plugin
 isJarAvailable: true
 error: ''
 violations: []

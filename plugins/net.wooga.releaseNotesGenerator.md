@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.wooga.releaseNotesGenerator
 isJarAvailable: true
 error: ''
 violations: []

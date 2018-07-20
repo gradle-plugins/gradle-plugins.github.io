@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ru.rambler.jiratasksupdater
 isJarAvailable: true
 error: ''
 violations: []

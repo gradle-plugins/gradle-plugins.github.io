@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.ololo.wsdl2java
 isJarAvailable: true
 error: ''
 violations: []

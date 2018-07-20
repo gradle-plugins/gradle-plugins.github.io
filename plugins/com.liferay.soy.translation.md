@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.liferay.soy.translation
 isJarAvailable: true
 error: ''
 violations: []

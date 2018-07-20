@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: me.champeau.buildscan-recipes
 isJarAvailable: true
 error: ''
 violations: []

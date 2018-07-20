@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.ewerk.gradle.plugins.jaxb2
 isJarAvailable: true
 error: ''
 violations: []

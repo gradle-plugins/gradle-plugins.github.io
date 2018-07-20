@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.etraveli.bom-verifier
 isJarAvailable: true
 error: ''
 violations: []

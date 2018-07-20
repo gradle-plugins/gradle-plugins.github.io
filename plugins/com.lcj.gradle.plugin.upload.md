@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.lcj.gradle.plugin.upload
 isJarAvailable: true
 error: ''
 violations: []

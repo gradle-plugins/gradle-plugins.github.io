@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.jetbrains.node.envs
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.palantir.baseline-eclipse
 isJarAvailable: true
 error: ''
 violations: []

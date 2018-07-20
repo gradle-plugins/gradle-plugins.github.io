@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.ajoberstar.organize-imports
 isJarAvailable: true
 error: ''
 violations: []

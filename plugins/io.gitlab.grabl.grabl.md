@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.gitlab.grabl.grabl
 isJarAvailable: true
 error: ''
 violations: []

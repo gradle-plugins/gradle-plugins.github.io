@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.fowlie.gradle-jenkins-test
 isJarAvailable: true
 error: ''
 violations: []

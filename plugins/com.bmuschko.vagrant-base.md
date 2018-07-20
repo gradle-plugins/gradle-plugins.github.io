@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.bmuschko.vagrant-base
 isJarAvailable: true
 error: ''
 violations: []

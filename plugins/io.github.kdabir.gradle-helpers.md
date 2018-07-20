@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.github.kdabir.gradle-helpers
 isJarAvailable: true
 error: ''
 violations: []

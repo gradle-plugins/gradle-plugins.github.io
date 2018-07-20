@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.hidetake.appengine.spring.boot
 isJarAvailable: true
 error: ''
 violations: []

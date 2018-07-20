@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.timgroup.jarmangit
 isJarAvailable: true
 error: ''
 violations: []

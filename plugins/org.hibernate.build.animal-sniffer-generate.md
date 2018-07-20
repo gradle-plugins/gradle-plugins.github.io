@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.hibernate.build.animal-sniffer-generate
 isJarAvailable: true
 error: ''
 violations: []

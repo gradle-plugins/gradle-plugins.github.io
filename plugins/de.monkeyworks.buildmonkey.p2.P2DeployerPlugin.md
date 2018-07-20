@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.monkeyworks.buildmonkey.p2.P2DeployerPlugin
 isJarAvailable: true
 error: ''
 violations: []

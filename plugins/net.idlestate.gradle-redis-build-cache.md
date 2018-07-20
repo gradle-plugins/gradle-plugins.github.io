@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.idlestate.gradle-redis-build-cache
 isJarAvailable: true
 error: ''
 violations: []

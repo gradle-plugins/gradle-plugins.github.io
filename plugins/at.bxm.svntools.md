@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: at.bxm.svntools
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.github.astinchoi.authtoken
 isJarAvailable: true
 error: ''
 violations: []

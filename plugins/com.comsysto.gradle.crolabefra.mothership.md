@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.comsysto.gradle.crolabefra.mothership
 isJarAvailable: true
 error: ''
 violations: []

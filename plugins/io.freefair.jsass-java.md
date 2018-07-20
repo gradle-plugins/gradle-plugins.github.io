@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.freefair.jsass-java
 isJarAvailable: true
 error: ''
 violations: []

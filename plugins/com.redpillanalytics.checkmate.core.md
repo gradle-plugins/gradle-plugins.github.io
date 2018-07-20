@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.redpillanalytics.checkmate.core
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.fangxu.socollectionplugin
 isJarAvailable: true
 error: ''
 violations: []

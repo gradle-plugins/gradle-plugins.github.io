@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.ajoberstar.reckon
 isJarAvailable: true
 error: ''
 violations: []

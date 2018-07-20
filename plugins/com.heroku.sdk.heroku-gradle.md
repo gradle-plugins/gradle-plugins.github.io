@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.heroku.sdk.heroku-gradle
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.shipkit.downstream-test
 isJarAvailable: true
 error: ''
 violations: []

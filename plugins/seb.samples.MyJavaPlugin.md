@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: seb.samples.MyJavaPlugin
 isJarAvailable: true
 error: ''
 violations: []

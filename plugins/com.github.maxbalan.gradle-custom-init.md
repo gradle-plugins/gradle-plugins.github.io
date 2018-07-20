@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.maxbalan.gradle-custom-init
 isJarAvailable: true
 error: ''
 violations: []

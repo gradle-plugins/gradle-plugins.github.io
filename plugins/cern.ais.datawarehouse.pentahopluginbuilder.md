@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cern.ais.datawarehouse.pentahopluginbuilder
 isJarAvailable: true
 error: ''
 violations: []

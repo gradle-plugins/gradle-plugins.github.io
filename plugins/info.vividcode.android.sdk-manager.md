@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: info.vividcode.android.sdk-manager
 isJarAvailable: true
 error: ''
 violations: []

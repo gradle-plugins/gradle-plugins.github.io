@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: us.kirchmeier.capsule
 isJarAvailable: true
 error: ''
 violations: []

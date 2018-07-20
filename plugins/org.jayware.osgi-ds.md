@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.jayware.osgi-ds
 isJarAvailable: true
 error: ''
 violations: []

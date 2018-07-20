@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.kordamp.basilisk
 isJarAvailable: true
 error: ''
 violations: []

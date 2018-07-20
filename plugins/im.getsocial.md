@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: im.getsocial
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.janitovff.play-ebean
 isJarAvailable: true
 error: ''
 violations: []

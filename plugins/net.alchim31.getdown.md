@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.alchim31.getdown
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.getcraftdone.plugin-insight
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.arielcabib.rust
 isJarAvailable: true
 error: ''
 violations: []

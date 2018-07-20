@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ajk.gradle.rabbit
 isJarAvailable: true
 error: ''
 violations: []

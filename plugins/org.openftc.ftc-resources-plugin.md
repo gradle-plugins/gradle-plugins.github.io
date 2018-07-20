@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.openftc.ftc-resources-plugin
 isJarAvailable: true
 error: ''
 violations: []

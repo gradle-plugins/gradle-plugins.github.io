@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: fr.jcgay.gradle-notifier
 isJarAvailable: true
 error: ''
 violations: []

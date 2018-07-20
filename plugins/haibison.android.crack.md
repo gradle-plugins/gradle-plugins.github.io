@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: haibison.android.crack
 isJarAvailable: true
 error: ''
 violations: []

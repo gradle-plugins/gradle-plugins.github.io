@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.tengio.gradle.tengio-checkstyle-plugin
 isJarAvailable: true
 error: ''
 violations: []

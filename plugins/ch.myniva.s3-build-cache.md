@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ch.myniva.s3-build-cache
 isJarAvailable: true
 error: ''
 violations: []

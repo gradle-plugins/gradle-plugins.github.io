@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.ltgt.errorprone-javacplugin
 isJarAvailable: true
 error: ''
 violations: []

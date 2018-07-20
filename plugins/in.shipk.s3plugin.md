@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: in.shipk.s3plugin
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: lt.neworld.jdeploy
 isJarAvailable: true
 error: ''
 violations: []

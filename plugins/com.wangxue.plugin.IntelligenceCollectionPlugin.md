@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.wangxue.plugin.IntelligenceCollectionPlugin
 isJarAvailable: true
 error: ''
 violations: []

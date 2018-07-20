@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nebula.nebula-ojo-publishing
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.morimekta.providence.gradle
 isJarAvailable: true
 error: ''
 violations: []

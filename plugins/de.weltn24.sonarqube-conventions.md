@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.weltn24.sonarqube-conventions
 isJarAvailable: true
 error: ''
 violations: []

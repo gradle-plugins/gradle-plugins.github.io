@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.robyf.dbpatcher
 isJarAvailable: true
 error: ''
 violations: []

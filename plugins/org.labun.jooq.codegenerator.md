@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.labun.jooq.codegenerator
 isJarAvailable: true
 error: ''
 violations: []

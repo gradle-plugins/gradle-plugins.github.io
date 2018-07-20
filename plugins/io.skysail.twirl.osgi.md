@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.skysail.twirl.osgi
 isJarAvailable: true
 error: ''
 violations: []

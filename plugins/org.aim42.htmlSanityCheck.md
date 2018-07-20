@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.aim42.htmlSanityCheck
 isJarAvailable: true
 error: ''
 violations: []

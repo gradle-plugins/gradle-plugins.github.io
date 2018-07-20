@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.kotka.clojuresque.extras.deps
 isJarAvailable: true
 error: ''
 violations: []

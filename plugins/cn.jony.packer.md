@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cn.jony.packer
 isJarAvailable: true
 error: ''
 violations: []

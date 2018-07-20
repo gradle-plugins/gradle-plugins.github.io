@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.kordamp.markdown.convert
 isJarAvailable: true
 error: ''
 violations: []

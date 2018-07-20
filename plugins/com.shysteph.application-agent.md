@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.shysteph.application-agent
 isJarAvailable: true
 error: ''
 violations: []

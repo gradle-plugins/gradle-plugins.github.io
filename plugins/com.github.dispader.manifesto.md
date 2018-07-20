@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.dispader.manifesto
 isJarAvailable: true
 error: ''
 violations: []

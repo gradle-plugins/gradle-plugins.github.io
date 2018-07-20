@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.lookout.service-artifact
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: pl.squirrel.classycle-gradle
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: net.minecrell.plugin-yml.bukkit
 isJarAvailable: true
 error: ''
 violations: []

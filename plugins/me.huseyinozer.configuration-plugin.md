@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: me.huseyinozer.configuration-plugin
 isJarAvailable: true
 error: ''
 violations: []

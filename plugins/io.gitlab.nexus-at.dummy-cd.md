@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.gitlab.nexus-at.dummy-cd
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.devalexb.octopus.manager
 isJarAvailable: true
 error: ''
 violations: []

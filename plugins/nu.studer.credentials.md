@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nu.studer.credentials
 isJarAvailable: true
 error: ''
 violations: []

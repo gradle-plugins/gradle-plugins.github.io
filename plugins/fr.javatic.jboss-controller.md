@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: fr.javatic.jboss-controller
 isJarAvailable: true
 error: ''
 violations: []

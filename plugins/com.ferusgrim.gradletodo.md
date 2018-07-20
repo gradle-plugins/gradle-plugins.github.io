@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.ferusgrim.gradletodo
 isJarAvailable: true
 error: ''
 violations: []

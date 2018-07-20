@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: at.zierler.yamlvalidator
 isJarAvailable: true
 error: ''
 violations: []

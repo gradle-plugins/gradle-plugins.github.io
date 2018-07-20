@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.qaware.cloud.deployer
 isJarAvailable: true
 error: ''
 violations: []

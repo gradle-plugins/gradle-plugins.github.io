@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: edu.illinois.nondexTest
 isJarAvailable: true
 error: ''
 violations: []

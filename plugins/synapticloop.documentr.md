@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: synapticloop.documentr
 isJarAvailable: true
 error: ''
 violations: []

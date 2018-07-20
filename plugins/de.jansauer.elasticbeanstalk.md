@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.jansauer.elasticbeanstalk
 isJarAvailable: true
 error: ''
 violations: []

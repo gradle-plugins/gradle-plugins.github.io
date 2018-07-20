@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: me.gjm.sourcegenerator
 isJarAvailable: true
 error: ''
 violations: []

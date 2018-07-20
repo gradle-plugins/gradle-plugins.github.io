@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nl.ikoodi.jenkins.jobdsl
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.ndrwdn.mountebank
 isJarAvailable: true
 error: ''
 violations: []

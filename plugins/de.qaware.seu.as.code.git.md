@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.qaware.seu.as.code.git
 isJarAvailable: true
 error: ''
 violations: []

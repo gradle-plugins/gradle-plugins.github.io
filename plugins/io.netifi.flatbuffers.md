@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: io.netifi.flatbuffers
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: nebula.nebula-optional-base
 isJarAvailable: true
 error: ''
 violations: []

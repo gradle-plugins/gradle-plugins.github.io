@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.buehmann.gradle.jubula
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.fieldju.aws-sam-deployer
 isJarAvailable: true
 error: ''
 violations: []

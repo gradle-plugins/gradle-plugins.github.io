@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.spindrift.run-assembler
 isJarAvailable: true
 error: ''
 violations: []

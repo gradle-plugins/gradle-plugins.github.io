@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.auryc.aspectplugin
 isJarAvailable: true
 error: ''
 violations: []

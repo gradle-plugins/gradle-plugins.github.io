@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.selesse.git.changelog
 isJarAvailable: true
 error: ''
 violations: []

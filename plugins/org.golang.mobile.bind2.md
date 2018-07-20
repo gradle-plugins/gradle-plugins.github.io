@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.golang.mobile.bind2
 isJarAvailable: true
 error: ''
 violations: []

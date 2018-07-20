@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: cz.swsamuraj.jaxws
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: pl.robakowski.jersey.bootstrap
 isJarAvailable: true
 error: ''
 violations: []

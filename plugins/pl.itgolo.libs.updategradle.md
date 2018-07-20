@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: pl.itgolo.libs.updategradle
 isJarAvailable: true
 error: ''
 violations: []

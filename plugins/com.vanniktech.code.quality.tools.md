@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.vanniktech.code.quality.tools
 isJarAvailable: true
 error: ''
 violations: []

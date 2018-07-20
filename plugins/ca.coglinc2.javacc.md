@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: ca.coglinc2.javacc
 isJarAvailable: true
 error: ''
 violations: []

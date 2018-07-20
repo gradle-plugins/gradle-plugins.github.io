@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.mobbeel.plugin
 isJarAvailable: true
 error: ''
 violations: []

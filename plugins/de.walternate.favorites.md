@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: de.walternate.favorites
 isJarAvailable: true
 error: ''
 violations: []

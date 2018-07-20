@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.kageiit.url-cache
 isJarAvailable: true
 error: ''
 violations: []

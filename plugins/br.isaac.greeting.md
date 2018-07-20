@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: br.isaac.greeting
 isJarAvailable: true
 error: ''
 violations: []

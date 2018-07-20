@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.m2ci.msp.praat-wrapper-windows
 isJarAvailable: true
 error: ''
 violations: []

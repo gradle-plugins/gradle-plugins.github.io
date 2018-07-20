@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: org.tenne.rest
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: pl.droidsonroids.pitest
 isJarAvailable: true
 error: ''
 violations: []

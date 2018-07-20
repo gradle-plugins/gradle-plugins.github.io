@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: run.smt.dependency-properties
 isJarAvailable: true
 error: ''
 violations: []

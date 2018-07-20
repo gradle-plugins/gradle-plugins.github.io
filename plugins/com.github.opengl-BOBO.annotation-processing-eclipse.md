@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd.workspace
+pluginId: com.github.opengl-BOBO.annotation-processing-eclipse
 isJarAvailable: true
 error: ''
 violations: []
