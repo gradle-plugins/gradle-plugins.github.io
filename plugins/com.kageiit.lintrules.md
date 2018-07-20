@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.kageiit.lintrules
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.hauner.jarTest
+isJarAvailable: true
+error: ''
+violations: []
+
+---

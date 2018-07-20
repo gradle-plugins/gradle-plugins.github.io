@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: fi.evident.beanstalk
+isJarAvailable: true
+error: ''
+violations: []
+
+---

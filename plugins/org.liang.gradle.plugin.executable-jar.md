@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.liang.gradle.plugin.executable-jar
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.inapptics.sdk.plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

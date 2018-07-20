@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: cz.msvab.gradle.activemq
+isJarAvailable: true
+error: ''
+violations: []
+
+---

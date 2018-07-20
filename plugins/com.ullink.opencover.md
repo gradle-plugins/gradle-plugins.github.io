@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.ullink.opencover
+isJarAvailable: true
+error: ''
+violations: []
+
+---

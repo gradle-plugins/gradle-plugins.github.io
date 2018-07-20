@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.lukosan.gradle-local-dependencies-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

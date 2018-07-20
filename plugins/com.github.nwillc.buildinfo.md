@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.nwillc.buildinfo
+isJarAvailable: true
+error: ''
+violations: []
+
+---

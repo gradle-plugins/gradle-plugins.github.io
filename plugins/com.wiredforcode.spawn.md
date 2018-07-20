@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.wiredforcode.spawn
+isJarAvailable: true
+error: ''
+violations: []
+
+---

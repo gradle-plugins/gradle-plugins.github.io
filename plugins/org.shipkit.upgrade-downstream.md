@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.shipkit.upgrade-downstream
+isJarAvailable: true
+error: ''
+violations: []
+
+---

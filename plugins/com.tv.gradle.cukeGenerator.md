@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.tv.gradle.cukeGenerator
+isJarAvailable: true
+error: ''
+violations: []
+
+---

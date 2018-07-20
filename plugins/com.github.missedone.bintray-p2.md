@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.missedone.bintray-p2
+isJarAvailable: true
+error: ''
+violations: []
+
+---

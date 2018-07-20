@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: nebula.manifest-pom
+isJarAvailable: true
+error: ''
+violations: []
+
+---

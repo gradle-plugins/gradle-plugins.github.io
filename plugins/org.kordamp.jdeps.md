@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.kordamp.jdeps
+isJarAvailable: true
+error: ''
+violations: []
+
+---

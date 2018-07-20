@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: uk.co.firstzero.AddOnJavaAntTasks
+isJarAvailable: true
+error: ''
+violations: []
+
+---

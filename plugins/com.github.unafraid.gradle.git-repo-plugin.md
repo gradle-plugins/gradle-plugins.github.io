@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.unafraid.gradle.git-repo-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

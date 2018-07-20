@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: de.weltn24.sonarqube
+isJarAvailable: true
+error: ''
+violations: []
+
+---

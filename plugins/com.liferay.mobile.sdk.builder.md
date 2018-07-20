@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.liferay.mobile.sdk.builder
+isJarAvailable: true
+error: ''
+violations: []
+
+---

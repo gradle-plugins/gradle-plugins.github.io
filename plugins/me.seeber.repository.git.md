@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: me.seeber.repository.git
+isJarAvailable: true
+error: ''
+violations: []
+
+---

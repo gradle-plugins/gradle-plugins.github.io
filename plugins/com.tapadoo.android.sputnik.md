@@ -1,6 +1,8 @@
 ---
 layout: plugin
 pluginId: com.tapadoo.android.sputnik
+isJarAvailable: true
+error: ''
 violations: []
 
 ---

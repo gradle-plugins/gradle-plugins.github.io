@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.kageiit.jacobo
+isJarAvailable: true
+error: ''
+violations: []
+
+---

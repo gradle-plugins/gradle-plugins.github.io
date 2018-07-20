@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.cip4.tools.spec-builder
+isJarAvailable: true
+error: ''
+violations: []
+
+---
