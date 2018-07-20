@@ -1,7 +1,7 @@
 ---
 layout: plugin
 pluginId: com.intershop.gradle.javadoc-plugin
-isJarAvailable: false
+isJarAvailable: true
 error: ''
 violations: []
 
