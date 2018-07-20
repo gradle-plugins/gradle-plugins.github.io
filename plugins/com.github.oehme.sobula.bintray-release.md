@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.oehme.sobula.bintray-release
+isJarAvailable: true
+error: ''
+violations: []
+
+---

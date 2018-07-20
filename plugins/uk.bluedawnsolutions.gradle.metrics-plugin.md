@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: uk.bluedawnsolutions.gradle.metrics-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

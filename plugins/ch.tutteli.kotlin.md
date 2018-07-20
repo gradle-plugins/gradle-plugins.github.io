@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: ch.tutteli.kotlin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

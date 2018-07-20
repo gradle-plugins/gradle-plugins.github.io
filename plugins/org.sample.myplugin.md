@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.sample.myplugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.intellisun.moddependencies
+isJarAvailable: true
+error: ''
+violations: []
+
+---

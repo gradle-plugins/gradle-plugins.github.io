@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.standardout.include
+isJarAvailable: true
+error: ''
+violations: []
+
+---

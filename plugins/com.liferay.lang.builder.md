@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.liferay.lang.builder
+isJarAvailable: true
+error: ''
+violations: []
+
+---

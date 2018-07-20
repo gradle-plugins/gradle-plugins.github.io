@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.wrdlbrnft.pom-generator
+isJarAvailable: true
+error: ''
+violations: []
+
+---

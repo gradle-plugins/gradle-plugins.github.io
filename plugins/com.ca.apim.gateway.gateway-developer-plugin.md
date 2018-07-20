@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.ca.apim.gateway.gateway-developer-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

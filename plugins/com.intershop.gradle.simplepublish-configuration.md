@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.intershop.gradle.simplepublish-configuration
+isJarAvailable: true
+error: ''
+violations: []
+
+---

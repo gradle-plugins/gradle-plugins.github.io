@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.snowdream.gradle.java-version-check
+isJarAvailable: true
+error: ''
+violations: []
+
+---

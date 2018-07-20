@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: cn.bestwu.idea
+isJarAvailable: true
+error: ''
+violations: []
+
+---

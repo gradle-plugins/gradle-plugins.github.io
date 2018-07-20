@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: de.hs_rm.cs.vs.tools.vocabularygenerator
+isJarAvailable: true
+error: ''
+violations: []
+
+---

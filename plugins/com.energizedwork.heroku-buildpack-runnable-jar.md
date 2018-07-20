@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.energizedwork.heroku-buildpack-runnable-jar
+isJarAvailable: true
+error: ''
+violations: []
+
+---

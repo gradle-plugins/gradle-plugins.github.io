@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: nebula.nebula-bintray
+isJarAvailable: true
+error: ''
+violations: []
+
+---

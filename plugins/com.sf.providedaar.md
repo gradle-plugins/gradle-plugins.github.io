@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.sf.providedaar
+isJarAvailable: true
+error: ''
+violations: []
+
+---

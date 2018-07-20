@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.saliman.cobertura
+isJarAvailable: true
+error: ''
+violations: []
+
+---

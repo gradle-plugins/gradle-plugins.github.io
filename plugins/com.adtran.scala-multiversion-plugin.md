@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.adtran.scala-multiversion-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---
