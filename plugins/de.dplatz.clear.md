@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.dplatz.clear
 isJarAvailable: true
 error: ''
 violations: []

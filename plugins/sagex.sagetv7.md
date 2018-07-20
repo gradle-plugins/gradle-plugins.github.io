@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: sagex.sagetv7
 isJarAvailable: true
 error: ''
 violations: []

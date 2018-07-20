@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.ankburov.gradle.dbupdateplugin
 isJarAvailable: true
 error: ''
 violations: []

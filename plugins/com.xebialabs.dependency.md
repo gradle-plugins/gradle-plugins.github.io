@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.xebialabs.dependency
 isJarAvailable: true
 error: ''
 violations: []

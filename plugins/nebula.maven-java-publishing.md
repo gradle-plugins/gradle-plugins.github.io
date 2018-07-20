@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: nebula.maven-java-publishing
 isJarAvailable: true
 error: ''
 violations: []

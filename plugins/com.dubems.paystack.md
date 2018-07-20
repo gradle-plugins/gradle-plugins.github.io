@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.dubems.paystack
 isJarAvailable: true
 error: ''
 violations: []

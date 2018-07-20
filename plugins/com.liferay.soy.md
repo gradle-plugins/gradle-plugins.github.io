@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.liferay.soy
 isJarAvailable: true
 error: ''
 violations: []

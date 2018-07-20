@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: nebula.nebula-bintray-publishing
 isJarAvailable: true
 error: ''
 violations: []

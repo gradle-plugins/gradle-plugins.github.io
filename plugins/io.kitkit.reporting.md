@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.kitkit.reporting
 isJarAvailable: true
 error: ''
 violations: []

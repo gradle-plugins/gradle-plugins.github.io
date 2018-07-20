@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: jp.empressia.netbeans.configuration
 isJarAvailable: true
 error: ''
 violations: []

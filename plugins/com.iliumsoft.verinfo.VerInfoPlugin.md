@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.iliumsoft.verinfo.VerInfoPlugin
 isJarAvailable: true
 error: ''
 violations: []

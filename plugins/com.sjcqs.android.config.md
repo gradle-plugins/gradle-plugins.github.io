@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.sjcqs.android.config
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.moleksyuk.vcs-semantic-version
 isJarAvailable: true
 error: ''
 violations: []

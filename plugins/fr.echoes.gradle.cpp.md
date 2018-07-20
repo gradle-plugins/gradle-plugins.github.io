@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fr.echoes.gradle.cpp
 isJarAvailable: true
 error: ''
 violations: []

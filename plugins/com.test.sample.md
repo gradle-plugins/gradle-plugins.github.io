@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.test.sample
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.qaware.seu.as.code.credentials
 isJarAvailable: true
 error: ''
 violations: []

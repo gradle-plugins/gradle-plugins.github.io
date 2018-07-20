@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.wildfly.build.provision
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.m2ci.msp.praat-wrapper-mac
 isJarAvailable: true
 error: ''
 violations: []

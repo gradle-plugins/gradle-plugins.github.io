@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.breskeby.lint.rules
 isJarAvailable: true
 error: ''
 violations: []

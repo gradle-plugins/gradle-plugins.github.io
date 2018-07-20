@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.waschndolos.licenseguard
 isJarAvailable: true
 error: ''
 violations: []

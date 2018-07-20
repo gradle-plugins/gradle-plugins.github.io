@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.sebastianboegl.shadow.transformer.log4j
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.jbake.site
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.undercouch.download
 isJarAvailable: true
 error: ''
 violations: []

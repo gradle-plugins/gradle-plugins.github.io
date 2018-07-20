@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.lazan.maven-transform
 isJarAvailable: true
 error: ''
 violations: []

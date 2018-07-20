@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.cinnober.gradle.semver-git
 isJarAvailable: true
 error: ''
 violations: []

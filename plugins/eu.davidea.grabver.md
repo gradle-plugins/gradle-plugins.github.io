@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: eu.davidea.grabver
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.bmuschko.tomcat
 isJarAvailable: true
 error: ''
 violations: []

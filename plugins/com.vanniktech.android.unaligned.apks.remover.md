@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.vanniktech.android.unaligned.apks.remover
 isJarAvailable: true
 error: ''
 violations: []

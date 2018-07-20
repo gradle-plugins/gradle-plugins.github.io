@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: uk.co.cacoethes.lazybones-templates
 isJarAvailable: true
 error: ''
 violations: []

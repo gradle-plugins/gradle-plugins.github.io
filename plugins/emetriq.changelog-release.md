@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: emetriq.changelog-release
 isJarAvailable: true
 error: ''
 violations: []

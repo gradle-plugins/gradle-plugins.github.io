@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: seek.aws
 isJarAvailable: true
 error: ''
 violations: []

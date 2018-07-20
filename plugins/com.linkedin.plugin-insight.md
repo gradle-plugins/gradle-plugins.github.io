@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.linkedin.plugin-insight
 isJarAvailable: true
 error: ''
 violations: []

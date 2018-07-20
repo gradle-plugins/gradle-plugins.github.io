@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.apache.gora
 isJarAvailable: true
 error: ''
 violations: []

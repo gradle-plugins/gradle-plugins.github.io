@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: ae.vigilancer.android-run-app
 isJarAvailable: true
 error: ''
 violations: []

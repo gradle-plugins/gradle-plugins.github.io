@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: ca.coglinc.githook
 isJarAvailable: true
 error: ''
 violations: []

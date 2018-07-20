@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: groovyx.grooid.groovy-android
 isJarAvailable: true
 error: ''
 violations: []

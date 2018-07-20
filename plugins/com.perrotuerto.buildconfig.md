@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.perrotuerto.buildconfig
 isJarAvailable: true
 error: ''
 violations: []

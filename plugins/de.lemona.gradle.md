@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.lemona.gradle
 isJarAvailable: true
 error: ''
 violations: []

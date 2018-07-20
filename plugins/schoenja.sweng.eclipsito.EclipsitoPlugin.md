@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: schoenja.sweng.eclipsito.EclipsitoPlugin
 isJarAvailable: true
 error: ''
 violations: []

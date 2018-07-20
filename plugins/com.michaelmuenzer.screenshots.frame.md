@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.michaelmuenzer.screenshots.frame
 isJarAvailable: true
 error: ''
 violations: []

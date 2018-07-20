@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.intershop.gradle.escrow-plugin
 isJarAvailable: true
 error: ''
 violations: []

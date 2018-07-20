@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.digitalascent.gradle.project
 isJarAvailable: true
 error: ''
 violations: []

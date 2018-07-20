@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.ofbizcn.noerp-plugin
 isJarAvailable: true
 error: ''
 violations: []

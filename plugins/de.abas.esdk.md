@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.abas.esdk
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.terrafolio.glu
 isJarAvailable: true
 error: ''
 violations: []

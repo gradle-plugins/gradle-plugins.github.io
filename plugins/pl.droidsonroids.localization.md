@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: pl.droidsonroids.localization
 isJarAvailable: true
 error: ''
 violations: []

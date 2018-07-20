@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.fidata.gradle-packer-plugin
 isJarAvailable: true
 error: ''
 violations: []

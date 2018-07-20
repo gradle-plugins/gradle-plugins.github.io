@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.comsysto.gradle.crolabefra.java
 isJarAvailable: true
 error: ''
 violations: []

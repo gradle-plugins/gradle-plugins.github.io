@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.contrastsecurity.contrastplugin
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: net.siggijons.dexmethodcount
 isJarAvailable: true
 error: ''
 violations: []

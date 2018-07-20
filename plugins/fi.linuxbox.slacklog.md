@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fi.linuxbox.slacklog
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.iperlane.reflection-access
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fr.ligol.iconics_generator
 isJarAvailable: true
 error: ''
 violations: []

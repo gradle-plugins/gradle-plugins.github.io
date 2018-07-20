@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: jp.classmethod.aws.rds
 isJarAvailable: true
 error: ''
 violations: []

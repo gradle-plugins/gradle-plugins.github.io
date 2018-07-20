@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.energizedwork.idea-base
 isJarAvailable: true
 error: ''
 violations: []

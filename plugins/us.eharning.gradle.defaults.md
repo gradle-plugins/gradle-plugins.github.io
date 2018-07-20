@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: us.eharning.gradle.defaults
 isJarAvailable: true
 error: ''
 violations: []

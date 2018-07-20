@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.bluepapa32.watch
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: sh.nothing.locate-apk
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.mamohr.jboss-deployment-structure
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.konifar.gradle.unused-resources-remover
 isJarAvailable: true
 error: ''
 violations: []

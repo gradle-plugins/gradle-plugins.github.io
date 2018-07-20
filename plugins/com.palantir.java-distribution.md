@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.palantir.java-distribution
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.homedepot.gitprops
 isJarAvailable: true
 error: ''
 violations: []

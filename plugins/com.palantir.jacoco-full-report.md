@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.palantir.jacoco-full-report
 isJarAvailable: true
 error: ''
 violations: []

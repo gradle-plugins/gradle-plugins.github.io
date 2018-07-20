@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: uk.co.littlemike.publishing-smorgasbord-plugin
 isJarAvailable: true
 error: ''
 violations: []

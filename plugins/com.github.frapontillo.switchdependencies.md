@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.frapontillo.switchdependencies
 isJarAvailable: true
 error: ''
 violations: []

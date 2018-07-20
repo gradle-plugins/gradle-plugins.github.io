@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.marklogic.ml-data-hub-plugin
 isJarAvailable: true
 error: ''
 violations: []

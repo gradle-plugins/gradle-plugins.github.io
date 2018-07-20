@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.newnewcoder.jboss-curl-gradle-plugin
 isJarAvailable: true
 error: ''
 violations: []

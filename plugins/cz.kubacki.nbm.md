@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cz.kubacki.nbm
 isJarAvailable: true
 error: ''
 violations: []

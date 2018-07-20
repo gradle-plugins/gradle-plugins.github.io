@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.ros2.tools.gradle
 isJarAvailable: true
 error: ''
 violations: []

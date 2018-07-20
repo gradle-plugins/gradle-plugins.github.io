@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.qwazer.markdown-confluence
 isJarAvailable: true
 error: ''
 violations: []

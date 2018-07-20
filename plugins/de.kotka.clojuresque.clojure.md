@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.kotka.clojuresque.clojure
 isJarAvailable: true
 error: ''
 violations: []

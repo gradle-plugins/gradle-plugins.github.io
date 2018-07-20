@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.shysteph.intellij-stabilizer
 isJarAvailable: true
 error: ''
 violations: []

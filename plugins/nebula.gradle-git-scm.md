@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: nebula.gradle-git-scm
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: nebula.ivy-dependencies
 isJarAvailable: true
 error: ''
 violations: []

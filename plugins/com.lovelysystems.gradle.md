@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.lovelysystems.gradle
 isJarAvailable: true
 error: ''
 violations: []

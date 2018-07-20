@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.zhurlik.jmeter
 isJarAvailable: true
 error: ''
 violations: []

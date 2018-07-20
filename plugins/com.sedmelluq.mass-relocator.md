@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.sedmelluq.mass-relocator
 isJarAvailable: true
 error: ''
 violations: []

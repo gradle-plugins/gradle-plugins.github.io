@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: net.vivin.gradle-semantic-build-versioning
 isJarAvailable: true
 error: ''
 violations: []

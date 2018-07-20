@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.jandyco.test-results
 isJarAvailable: true
 error: ''
 violations: []

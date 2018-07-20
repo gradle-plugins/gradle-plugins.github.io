@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.wrdlbrnft.json-generator
 isJarAvailable: true
 error: ''
 violations: []

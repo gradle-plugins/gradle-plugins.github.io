@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.glantus.service
 isJarAvailable: true
 error: ''
 violations: []

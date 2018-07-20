@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.betomorrow.xamarin.nunit
 isJarAvailable: true
 error: ''
 violations: []

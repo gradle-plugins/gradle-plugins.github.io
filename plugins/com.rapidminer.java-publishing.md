@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.rapidminer.java-publishing
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.sergioserra.android-s3
 isJarAvailable: true
 error: ''
 violations: []

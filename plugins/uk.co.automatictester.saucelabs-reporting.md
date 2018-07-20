@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: uk.co.automatictester.saucelabs-reporting
 isJarAvailable: true
 error: ''
 violations: []

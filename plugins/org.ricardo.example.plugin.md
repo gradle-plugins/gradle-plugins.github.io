@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.ricardo.example.plugin
 isJarAvailable: true
 error: ''
 violations: []

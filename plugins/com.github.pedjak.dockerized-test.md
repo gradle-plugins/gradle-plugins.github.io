@@ -1,0 +1,74 @@
+---
+layout: plugin
+pluginId: com.github.pedjak.dockerized-test
+isJarAvailable: true
+error: ''
+violations:
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecException;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/streams/StreamsHandler;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/concurrent/DefaultExecutorFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/concurrent/ManagedExecutor;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecHandleState;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/event/ListenerBroadcast;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecHandleShutdownHookAction;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/concurrent/DefaultExecutorFactory}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleShutdownHookAction}
+- {name: Using internal APIS (instantiate) org/gradle/internal/event/ListenerBroadcast}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleListener}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecException}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/internal/operations/BuildOperationIdentifierPreservingRunnable}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleListener}
+- {name: Using internal APIS (field) Lorg/gradle/internal/concurrent/ExecutorFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/streams/StreamsHandler;}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/streams/StreamsHandler}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/streams/StreamsHandler}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/AbstractExecHandleBuilder}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/AbstractExecHandleBuilder}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/AbstractExecHandleBuilder}
+- {name: Using internal APIS (instantiate) org/gradle/internal/remote/internal/ConnectCompletion}
+- {name: Using internal APIS (field) Lorg/gradle/internal/remote/internal/inet/MultiChoiceAddress;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/remote/ConnectionAcceptor;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/remote/ConnectionAcceptor}
+- {name: Using internal APIS (instantiate) org/gradle/internal/remote/internal/inet/MultiChoiceAddress}
+- {name: Using internal APIS (field) Lorg/gradle/internal/remote/internal/IncomingConnector;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/concurrent/ExecutorFactory;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/remote/internal/IncomingConnector}
+- {name: Using internal APIS (instantiate) org/gradle/internal/concurrent/ExecutorFactory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/remote/ConnectionAcceptor}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/JavaExecHandleFactory}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecHandleListener;}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleListener}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecHandle;}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleState}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/worker/WorkerProcessFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/tasks/testing/WorkerTestClassProcessorFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/classpath/ModuleRegistry;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/tasks/testing/worker/RemoteTestClassProcessor;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/worker/WorkerProcess;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/tasks/testing/TestResultProcessor;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/worker/RemoteTestClassProcessor}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/tasks/testing/WorkerTestClassProcessorFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/tasks/testing/TestFramework;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/processors/RestartEveryNTestClassProcessor}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/worker/WorkerProcessFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/actor/ActorFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/classpath/ModuleRegistry;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/operations/BuildOperationExecutor;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/time/Clock;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/processors/MaxNParallelTestClassProcessor}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/detection/DefaultTestClassScanner}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/detection/DefaultTestClassScanner}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/testing/processors/TestMainAction}
+
+---

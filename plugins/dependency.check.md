@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: dependency.check
 isJarAvailable: true
 error: ''
 violations: []

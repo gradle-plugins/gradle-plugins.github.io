@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.akhikhl.wuff
 isJarAvailable: true
 error: ''
 violations: []

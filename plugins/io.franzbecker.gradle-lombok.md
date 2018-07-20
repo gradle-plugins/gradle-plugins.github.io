@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.franzbecker.gradle-lombok
 isJarAvailable: true
 error: ''
 violations: []

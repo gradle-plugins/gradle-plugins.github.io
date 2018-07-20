@@ -1,7 +1,7 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
-isJarAvailable: true
+pluginId: de.kotka.project
+isJarAvailable: false
 error: ''
 violations: []
 

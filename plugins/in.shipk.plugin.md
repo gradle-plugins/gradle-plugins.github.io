@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: in.shipk.plugin
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.avaje.boot
 isJarAvailable: true
 error: ''
 violations: []

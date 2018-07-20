@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.mockito.release-notes
 isJarAvailable: true
 error: ''
 violations: []

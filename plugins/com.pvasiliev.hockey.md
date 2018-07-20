@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.pvasiliev.hockey
 isJarAvailable: true
 error: ''
 violations: []

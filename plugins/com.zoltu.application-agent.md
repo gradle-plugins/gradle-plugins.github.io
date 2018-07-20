@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.zoltu.application-agent
 isJarAvailable: true
 error: ''
 violations: []

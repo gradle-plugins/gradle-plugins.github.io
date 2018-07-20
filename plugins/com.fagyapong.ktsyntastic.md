@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.fagyapong.ktsyntastic
 isJarAvailable: true
 error: ''
 violations: []

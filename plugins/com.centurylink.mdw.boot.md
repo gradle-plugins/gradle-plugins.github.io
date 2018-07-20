@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.centurylink.mdw.boot
 isJarAvailable: true
 error: ''
 violations: []

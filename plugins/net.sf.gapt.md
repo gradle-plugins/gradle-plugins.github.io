@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: net.sf.gapt
 isJarAvailable: true
 error: ''
 violations: []

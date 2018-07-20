@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.alejoHomes.jasmine
 isJarAvailable: true
 error: ''
 violations: []

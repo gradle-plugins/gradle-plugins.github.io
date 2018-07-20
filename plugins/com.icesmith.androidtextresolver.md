@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.icesmith.androidtextresolver
 isJarAvailable: true
 error: ''
 violations: []

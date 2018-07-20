@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.alexanderthelen.gitrepositoriesplugin
 isJarAvailable: true
 error: ''
 violations: []

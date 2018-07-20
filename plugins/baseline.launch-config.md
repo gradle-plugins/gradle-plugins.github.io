@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: baseline.launch-config
 isJarAvailable: true
 error: ''
 violations: []

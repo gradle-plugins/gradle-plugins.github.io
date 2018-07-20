@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.grasp.greeting
 isJarAvailable: true
 error: ''
 violations: []

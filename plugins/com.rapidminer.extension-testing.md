@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.rapidminer.extension-testing
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.pluribuslabs.gradle.artifactversion
 isJarAvailable: true
 error: ''
 violations: []

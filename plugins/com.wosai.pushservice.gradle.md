@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.wosai.pushservice.gradle
 isJarAvailable: true
 error: ''
 violations: []

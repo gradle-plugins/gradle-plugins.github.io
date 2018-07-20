@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.intershop.gradle.buildinfo
 isJarAvailable: true
 error: ''
 violations: []

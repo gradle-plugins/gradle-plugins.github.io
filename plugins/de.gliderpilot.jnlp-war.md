@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.gliderpilot.jnlp-war
 isJarAvailable: true
 error: ''
 violations: []

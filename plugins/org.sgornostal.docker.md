@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.sgornostal.docker
 isJarAvailable: true
 error: ''
 violations: []

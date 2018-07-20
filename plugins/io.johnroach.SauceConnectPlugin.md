@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.johnroach.SauceConnectPlugin
 isJarAvailable: true
 error: ''
 violations: []

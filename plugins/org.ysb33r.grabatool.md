@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.ysb33r.grabatool
 isJarAvailable: true
 error: ''
 violations: []

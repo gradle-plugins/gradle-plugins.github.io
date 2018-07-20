@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.kt3k.coveralls
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.ethinking.escenic.studio
 isJarAvailable: true
 error: ''
 violations: []

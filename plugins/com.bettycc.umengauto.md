@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.bettycc.umengauto
 isJarAvailable: true
 error: ''
 violations: []

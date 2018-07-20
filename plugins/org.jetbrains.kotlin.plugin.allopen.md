@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.jetbrains.kotlin.plugin.allopen
 isJarAvailable: true
 error: ''
 violations: []

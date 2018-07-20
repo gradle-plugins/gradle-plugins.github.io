@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.ewerk.gradle.plugins.artifactory-deb-publish
 isJarAvailable: true
 error: ''
 violations: []

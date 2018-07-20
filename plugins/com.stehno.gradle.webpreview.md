@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.stehno.gradle.webpreview
 isJarAvailable: true
 error: ''
 violations: []

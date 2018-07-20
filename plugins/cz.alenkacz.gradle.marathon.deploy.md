@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cz.alenkacz.gradle.marathon.deploy
 isJarAvailable: true
 error: ''
 violations: []

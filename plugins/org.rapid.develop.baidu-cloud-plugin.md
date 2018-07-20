@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.rapid.develop.baidu-cloud-plugin
 isJarAvailable: true
 error: ''
 violations: []

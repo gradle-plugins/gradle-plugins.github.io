@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.rveguilla.mountebank
 isJarAvailable: true
 error: ''
 violations: []

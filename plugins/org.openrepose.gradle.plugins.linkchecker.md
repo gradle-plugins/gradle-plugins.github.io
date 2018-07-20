@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.openrepose.gradle.plugins.linkchecker
 isJarAvailable: true
 error: ''
 violations: []

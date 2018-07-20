@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: me.seeber.workspace
 isJarAvailable: true
 error: ''
 violations: []

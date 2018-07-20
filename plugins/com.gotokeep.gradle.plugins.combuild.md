@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.gotokeep.gradle.plugins.combuild
 isJarAvailable: true
 error: ''
 violations: []

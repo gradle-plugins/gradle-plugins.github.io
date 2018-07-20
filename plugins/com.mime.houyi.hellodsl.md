@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.mime.houyi.hellodsl
 isJarAvailable: true
 error: ''
 violations: []

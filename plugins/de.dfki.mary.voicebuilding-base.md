@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.dfki.mary.voicebuilding-base
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cn.jony.compress.png
 isJarAvailable: true
 error: ''
 violations: []

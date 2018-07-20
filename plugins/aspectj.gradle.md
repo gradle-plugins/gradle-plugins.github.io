@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: aspectj.gradle
 isJarAvailable: true
 error: ''
 violations: []

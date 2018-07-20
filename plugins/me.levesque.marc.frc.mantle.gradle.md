@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: me.levesque.marc.frc.mantle.gradle
 isJarAvailable: true
 error: ''
 violations: []

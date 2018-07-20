@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.webcohesion.enunciate
 isJarAvailable: true
 error: ''
 violations: []

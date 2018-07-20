@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.palantir.mlx.build.miniconda
 isJarAvailable: true
 error: ''
 violations: []

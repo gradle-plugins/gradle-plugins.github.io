@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.spongepowered.event-impl-gen
 isJarAvailable: true
 error: ''
 violations: []

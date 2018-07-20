@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.jdrupes.mdoclet
 isJarAvailable: true
 error: ''
 violations: []

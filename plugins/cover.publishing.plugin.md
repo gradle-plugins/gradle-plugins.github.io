@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cover.publishing.plugin
 isJarAvailable: true
 error: ''
 violations: []

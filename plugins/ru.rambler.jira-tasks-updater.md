@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: ru.rambler.jira-tasks-updater
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.neolumia.license
 isJarAvailable: true
 error: ''
 violations: []

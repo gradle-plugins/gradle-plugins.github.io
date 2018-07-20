@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.metahelicase.site-builder
 isJarAvailable: true
 error: ''
 violations: []

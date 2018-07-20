@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.drost.gradle.minio-buildcache
 isJarAvailable: true
 error: ''
 violations: []

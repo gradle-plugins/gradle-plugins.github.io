@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.craigburke.karma
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: name.yount.steffen.plugin-delegator
 isJarAvailable: true
 error: ''
 violations: []

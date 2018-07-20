@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.openstreetmap.josm.gradle.plugin
 isJarAvailable: true
 error: ''
 violations: []

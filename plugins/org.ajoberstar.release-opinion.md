@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.ajoberstar.release-opinion
 isJarAvailable: true
 error: ''
 violations: []

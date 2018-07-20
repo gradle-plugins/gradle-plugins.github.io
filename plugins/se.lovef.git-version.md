@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: se.lovef.git-version
 isJarAvailable: true
 error: ''
 violations: []

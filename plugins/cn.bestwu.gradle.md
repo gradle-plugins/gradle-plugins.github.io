@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cn.bestwu.gradle
 isJarAvailable: true
 error: ''
 violations: []

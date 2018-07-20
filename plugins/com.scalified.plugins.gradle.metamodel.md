@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.scalified.plugins.gradle.metamodel
 isJarAvailable: true
 error: ''
 violations: []

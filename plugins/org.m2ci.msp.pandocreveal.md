@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.m2ci.msp.pandocreveal
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.advantageous.docker-test
 isJarAvailable: true
 error: ''
 violations: []

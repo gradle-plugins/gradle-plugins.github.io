@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: flavor.pie.promptsign
 isJarAvailable: true
 error: ''
 violations: []

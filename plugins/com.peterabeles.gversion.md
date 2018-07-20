@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.peterabeles.gversion
 isJarAvailable: true
 error: ''
 violations: []

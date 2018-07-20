@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.gliderpilot.semantic-release
 isJarAvailable: true
 error: ''
 violations: []

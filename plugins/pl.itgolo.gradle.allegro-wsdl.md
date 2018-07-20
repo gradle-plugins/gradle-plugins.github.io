@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: pl.itgolo.gradle.allegro-wsdl
 isJarAvailable: true
 error: ''
 violations: []

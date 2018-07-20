@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.orctom.applyscript
 isJarAvailable: true
 error: ''
 violations: []

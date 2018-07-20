@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: amnl.pylizard
 isJarAvailable: true
 error: ''
 violations: []

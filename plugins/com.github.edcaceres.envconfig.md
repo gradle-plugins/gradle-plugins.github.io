@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.edcaceres.envconfig
 isJarAvailable: true
 error: ''
 violations: []

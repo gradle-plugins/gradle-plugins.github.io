@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: ro.amocanu.amworkflow
 isJarAvailable: true
 error: ''
 violations: []

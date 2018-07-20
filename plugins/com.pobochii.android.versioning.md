@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.pobochii.android.versioning
 isJarAvailable: true
 error: ''
 violations: []

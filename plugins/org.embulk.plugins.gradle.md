@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.embulk.plugins.gradle
 isJarAvailable: true
 error: ''
 violations: []

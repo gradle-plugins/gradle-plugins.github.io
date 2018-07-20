@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.tarasleskiv.gradle.unity
 isJarAvailable: true
 error: ''
 violations: []

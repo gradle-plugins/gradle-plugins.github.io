@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.bk.simple-version-android
 isJarAvailable: true
 error: ''
 violations: []

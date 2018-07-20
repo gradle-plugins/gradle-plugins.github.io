@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.easycode.gherk
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.vanniktech.android.javadoc.app
 isJarAvailable: true
 error: ''
 violations: []

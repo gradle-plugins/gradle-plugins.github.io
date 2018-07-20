@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fr.coppernic.versioning
 isJarAvailable: true
 error: ''
 violations: []

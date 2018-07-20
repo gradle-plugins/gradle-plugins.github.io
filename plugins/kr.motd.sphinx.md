@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: kr.motd.sphinx
 isJarAvailable: true
 error: ''
 violations: []

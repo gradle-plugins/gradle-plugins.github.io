@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: pl.droidsonroids.jenkins
 isJarAvailable: true
 error: ''
 violations: []

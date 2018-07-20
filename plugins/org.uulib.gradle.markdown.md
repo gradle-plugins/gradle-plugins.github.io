@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.uulib.gradle.markdown
 isJarAvailable: true
 error: ''
 violations: []

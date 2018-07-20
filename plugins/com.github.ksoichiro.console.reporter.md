@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.ksoichiro.console.reporter
 isJarAvailable: true
 error: ''
 violations: []

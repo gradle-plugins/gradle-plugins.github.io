@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: ru.endlesscode.bukkitgradle
 isJarAvailable: true
 error: ''
 violations: []

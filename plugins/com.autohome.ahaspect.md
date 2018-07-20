@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.autohome.ahaspect
 isJarAvailable: true
 error: ''
 violations: []

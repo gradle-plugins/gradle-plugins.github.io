@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.upthewaterspout.jpf
 isJarAvailable: true
 error: ''
 violations: []

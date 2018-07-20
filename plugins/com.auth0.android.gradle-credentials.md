@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.auth0.android.gradle-credentials
 isJarAvailable: true
 error: ''
 violations: []

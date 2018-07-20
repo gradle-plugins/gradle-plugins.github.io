@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.cdcalc
 isJarAvailable: true
 error: ''
 violations: []

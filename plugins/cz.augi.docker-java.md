@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: cz.augi.docker-java
 isJarAvailable: true
 error: ''
 violations: []

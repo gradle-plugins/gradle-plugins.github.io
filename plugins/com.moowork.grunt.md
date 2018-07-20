@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.moowork.grunt
 isJarAvailable: true
 error: ''
 violations: []

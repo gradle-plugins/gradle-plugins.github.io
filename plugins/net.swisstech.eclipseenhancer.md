@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: net.swisstech.eclipseenhancer
 isJarAvailable: true
 error: ''
 violations: []

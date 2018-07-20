@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.shipkit.git-hub-pom-contributors
 isJarAvailable: true
 error: ''
 violations: []

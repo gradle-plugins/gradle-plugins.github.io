@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.km.pclass
 isJarAvailable: true
 error: ''
 violations: []

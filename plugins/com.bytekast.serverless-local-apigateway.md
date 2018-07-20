@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.bytekast.serverless-local-apigateway
 isJarAvailable: true
 error: ''
 violations: []

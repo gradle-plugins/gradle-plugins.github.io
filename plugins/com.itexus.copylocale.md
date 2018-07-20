@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.itexus.copylocale
 isJarAvailable: true
 error: ''
 violations: []

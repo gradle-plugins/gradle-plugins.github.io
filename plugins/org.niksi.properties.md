@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.niksi.properties
 isJarAvailable: true
 error: ''
 violations: []

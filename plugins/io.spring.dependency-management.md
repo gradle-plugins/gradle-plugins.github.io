@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.spring.dependency-management
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fi.linuxbox.enrich
 isJarAvailable: true
 error: ''
 violations: []

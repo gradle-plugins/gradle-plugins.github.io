@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.oskip.jooq
 isJarAvailable: true
 error: ''
 violations: []

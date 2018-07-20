@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.hekeki.gradle.gradle-plugin-kotlin-example
 isJarAvailable: true
 error: ''
 violations: []

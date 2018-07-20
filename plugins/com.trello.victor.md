@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.trello.victor
 isJarAvailable: true
 error: ''
 violations: []

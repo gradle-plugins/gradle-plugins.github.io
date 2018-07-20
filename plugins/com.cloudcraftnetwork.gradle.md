@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.cloudcraftnetwork.gradle
 isJarAvailable: true
 error: ''
 violations: []

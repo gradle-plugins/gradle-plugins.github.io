@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.themrmilchmann.kraton
 isJarAvailable: true
 error: ''
 violations: []

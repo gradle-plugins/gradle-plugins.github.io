@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.monochromeroad.s3sync
 isJarAvailable: true
 error: ''
 violations: []

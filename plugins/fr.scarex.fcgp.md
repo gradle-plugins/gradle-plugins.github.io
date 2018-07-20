@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fr.scarex.fcgp
 isJarAvailable: true
 error: ''
 violations: []

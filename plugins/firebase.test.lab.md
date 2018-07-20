@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: firebase.test.lab
 isJarAvailable: true
 error: ''
 violations: []

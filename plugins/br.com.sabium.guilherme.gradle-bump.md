@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: br.com.sabium.guilherme.gradle-bump
 isJarAvailable: true
 error: ''
 violations: []

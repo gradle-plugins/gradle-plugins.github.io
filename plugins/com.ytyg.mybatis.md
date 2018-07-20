@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.ytyg.mybatis
 isJarAvailable: true
 error: ''
 violations: []

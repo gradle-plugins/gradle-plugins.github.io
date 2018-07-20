@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: io.dcow.sublime
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.fizzpod.gitignore
 isJarAvailable: true
 error: ''
 violations: []

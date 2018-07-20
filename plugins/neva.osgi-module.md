@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: neva.osgi-module
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: fr.coppernic.android.javadoc
 isJarAvailable: true
 error: ''
 violations: []

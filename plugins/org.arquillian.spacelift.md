@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.arquillian.spacelift
 isJarAvailable: true
 error: ''
 violations: []

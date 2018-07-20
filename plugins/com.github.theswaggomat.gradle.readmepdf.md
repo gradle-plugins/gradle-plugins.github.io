@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.theswaggomat.gradle.readmepdf
 isJarAvailable: true
 error: ''
 violations: []

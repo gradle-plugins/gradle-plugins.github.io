@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.innogames.tools.hosts-editor
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: nebula.source-refactor
 isJarAvailable: true
 error: ''
 violations: []

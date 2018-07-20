@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.kaklakariada.aws-sam-deploy
 isJarAvailable: true
 error: ''
 violations: []

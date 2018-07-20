@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.jdroid.java
 isJarAvailable: true
 error: ''
 violations: []

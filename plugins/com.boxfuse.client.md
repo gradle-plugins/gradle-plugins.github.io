@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.boxfuse.client
 isJarAvailable: true
 error: ''
 violations: []

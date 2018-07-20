@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: pt.rasm.gradle.ship
 isJarAvailable: true
 error: ''
 violations: []

@@ -1,0 +1,61 @@
+---
+layout: plugin
+pluginId: net.wooga.unity
+isJarAvailable: true
+error: ''
+violations:
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileResolver;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/reflect/Instantiator;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/IConventionAware}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/TaskResolver}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping$MappedProperty}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping$MappedProperty}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/IConventionAware}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (field) Lorg/gradle/internal/reflect/Instantiator;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileResolver;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileResolver;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/ConventionMapping;}
+- {name: Using internal APIS (field) Lorg/gradle/process/internal/ExecHandleBuilder;}
+- {name: Using internal APIS (field) Lorg/gradle/internal/Factory;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/ConventionMapping}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandleBuilder}
+- {name: Using internal APIS (instantiate) org/gradle/internal/Factory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/io/TextStream}
+- {name: Using internal APIS (instantiate) org/gradle/internal/io/TextStream}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecHandle}
+- {name: Using internal APIS (field) Lorg/gradle/internal/reflect/Instantiator;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileResolver;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (field) Lorg/gradle/internal/reflect/Instantiator;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileResolver;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/api/reporting/internal/TaskGeneratedSingleFileReport}
+
+---

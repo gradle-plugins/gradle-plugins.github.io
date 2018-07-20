@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: no.systemfabrikken.fleetplugin
 isJarAvailable: true
 error: ''
 violations: []

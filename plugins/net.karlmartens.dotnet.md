@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: net.karlmartens.dotnet
 isJarAvailable: true
 error: ''
 violations: []

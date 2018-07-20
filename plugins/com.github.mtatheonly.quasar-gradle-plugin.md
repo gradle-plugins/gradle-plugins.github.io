@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.mtatheonly.quasar-gradle-plugin
 isJarAvailable: true
 error: ''
 violations: []

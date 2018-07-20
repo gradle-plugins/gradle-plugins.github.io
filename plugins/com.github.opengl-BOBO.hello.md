@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.github.opengl-BOBO.hello
 isJarAvailable: true
 error: ''
 violations: []

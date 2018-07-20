@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.scrain.checksum-plugin
 isJarAvailable: true
 error: ''
 violations: []

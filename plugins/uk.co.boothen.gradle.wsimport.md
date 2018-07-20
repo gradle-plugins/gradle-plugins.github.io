@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: uk.co.boothen.gradle.wsimport
 isJarAvailable: true
 error: ''
 violations: []

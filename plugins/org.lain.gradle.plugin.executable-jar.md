@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.lain.gradle.plugin.executable-jar
 isJarAvailable: true
 error: ''
 violations: []

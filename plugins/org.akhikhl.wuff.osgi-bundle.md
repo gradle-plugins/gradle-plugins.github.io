@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: org.akhikhl.wuff.osgi-bundle
 isJarAvailable: true
 error: ''
 violations: []

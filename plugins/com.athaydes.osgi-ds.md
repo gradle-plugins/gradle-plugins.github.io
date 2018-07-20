@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: com.athaydes.osgi-ds
 isJarAvailable: true
 error: ''
 violations: []

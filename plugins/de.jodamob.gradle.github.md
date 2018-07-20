@@ -1,6 +1,6 @@
 ---
 layout: plugin
-pluginId: biz.aQute.bnd
+pluginId: de.jodamob.gradle.github
 isJarAvailable: true
 error: ''
 violations: []
