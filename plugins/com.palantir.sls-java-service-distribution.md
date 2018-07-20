@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.palantir.sls-java-service-distribution
+isJarAvailable: true
+error: ''
+violations: []
+
+---

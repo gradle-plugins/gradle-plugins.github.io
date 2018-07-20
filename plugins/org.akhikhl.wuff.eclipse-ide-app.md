@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.akhikhl.wuff.eclipse-ide-app
+isJarAvailable: true
+error: ''
+violations: []
+
+---

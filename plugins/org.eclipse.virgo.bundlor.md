@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.eclipse.virgo.bundlor
+isJarAvailable: true
+error: ''
+violations: []
+
+---

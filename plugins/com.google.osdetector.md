@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.google.osdetector
+isJarAvailable: false
+error: ''
+violations: []
+
+---

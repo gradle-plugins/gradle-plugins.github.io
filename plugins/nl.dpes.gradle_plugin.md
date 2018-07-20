@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: nl.dpes.gradle_plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

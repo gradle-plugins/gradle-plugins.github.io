@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.mageddo.sample
+isJarAvailable: true
+error: ''
+violations: []
+
+---

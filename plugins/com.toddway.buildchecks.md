@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.toddway.buildchecks
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.samples.examples.helloworld
+isJarAvailable: false
+error: ''
+violations: []
+
+---

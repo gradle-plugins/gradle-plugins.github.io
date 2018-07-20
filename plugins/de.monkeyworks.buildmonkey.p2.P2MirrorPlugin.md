@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: de.monkeyworks.buildmonkey.p2.P2MirrorPlugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

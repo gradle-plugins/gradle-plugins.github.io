@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: nz.co.landcareresearch.gradle.geneious
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.siprell.plugins.bootstrap-framework
+isJarAvailable: true
+error: ''
+violations: []
+
+---

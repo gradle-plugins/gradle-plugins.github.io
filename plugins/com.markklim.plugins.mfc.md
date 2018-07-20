@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.markklim.plugins.mfc
+isJarAvailable: true
+error: ''
+violations: []
+
+---

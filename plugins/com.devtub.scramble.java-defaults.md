@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.devtub.scramble.java-defaults
+isJarAvailable: true
+error: ''
+violations: []
+
+---
