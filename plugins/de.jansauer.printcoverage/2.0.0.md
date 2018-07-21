@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: de.jansauer.printcoverage
+isJarAvailable: true
+error: ''
+violations: []
+
+---

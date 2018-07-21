@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.madlonkay.android-l10n-fix
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.ksoichiro.web.resource
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.jdroid.android.application
+isJarAvailable: true
+error: ''
+violations: []
+
+---

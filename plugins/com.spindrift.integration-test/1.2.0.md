@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.spindrift.integration-test
+isJarAvailable: true
+error: ''
+violations: []
+
+---

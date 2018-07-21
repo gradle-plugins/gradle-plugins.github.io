@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: de.dfki.mary.voicebuilding.marytts-kaldi-mfa
+isJarAvailable: true
+error: ''
+violations: []
+
+---

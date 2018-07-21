@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.eerohele.saxon-gradle
+isJarAvailable: true
+error: ''
+violations: []
+
+---

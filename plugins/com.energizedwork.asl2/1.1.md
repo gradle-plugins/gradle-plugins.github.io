@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.energizedwork.asl2
+isJarAvailable: true
+error: ''
+violations: []
+
+---

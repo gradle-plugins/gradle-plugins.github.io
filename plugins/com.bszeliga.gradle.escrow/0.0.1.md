@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.bszeliga.gradle.escrow
+isJarAvailable: true
+error: ''
+violations: []
+
+---

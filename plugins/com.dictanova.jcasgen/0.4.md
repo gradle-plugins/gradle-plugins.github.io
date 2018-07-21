@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.dictanova.jcasgen
+isJarAvailable: true
+error: ''
+violations: []
+
+---

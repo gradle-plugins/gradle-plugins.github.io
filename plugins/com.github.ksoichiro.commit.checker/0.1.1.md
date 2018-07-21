@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.ksoichiro.commit.checker
+isJarAvailable: true
+error: ''
+violations: []
+
+---

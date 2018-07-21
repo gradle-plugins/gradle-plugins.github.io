@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.iboyko.gradle.plugins.jpamodelgen
+isJarAvailable: true
+error: ''
+violations: []
+
+---

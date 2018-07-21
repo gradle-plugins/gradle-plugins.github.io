@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: ke.co.carepay.gradle
+isJarAvailable: true
+error: ''
+violations: []
+
+---

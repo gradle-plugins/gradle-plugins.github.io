@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: br.com.sabium.gradle-bump
+isJarAvailable: true
+error: ''
+violations: []
+
+---

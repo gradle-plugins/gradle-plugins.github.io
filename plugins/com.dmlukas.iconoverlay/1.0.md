@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.dmlukas.iconoverlay
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.radioafricagroup.plugins.flyway
+isJarAvailable: true
+error: ''
+violations: []
+
+---

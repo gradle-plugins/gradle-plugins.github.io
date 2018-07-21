@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.jetbrains.dokka-android
+isJarAvailable: true
+error: ''
+violations: []
+
+---

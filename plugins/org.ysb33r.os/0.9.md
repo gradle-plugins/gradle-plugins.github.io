@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.ysb33r.os
+isJarAvailable: true
+error: ''
+violations: []
+
+---

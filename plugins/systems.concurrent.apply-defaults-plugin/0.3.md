@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: systems.concurrent.apply-defaults-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

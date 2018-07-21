@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.shipkit.java-library
+isJarAvailable: true
+error: ''
+violations: []
+
+---

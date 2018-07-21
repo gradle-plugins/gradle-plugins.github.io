@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.jbooster.mybatis.generator
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.epam.ai.wso2esb-gradle-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

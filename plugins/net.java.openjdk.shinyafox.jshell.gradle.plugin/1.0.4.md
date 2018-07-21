@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.java.openjdk.shinyafox.jshell.gradle.plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

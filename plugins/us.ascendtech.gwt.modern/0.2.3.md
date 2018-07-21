@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: us.ascendtech.gwt.modern
+isJarAvailable: true
+error: ''
+violations: []
+
+---

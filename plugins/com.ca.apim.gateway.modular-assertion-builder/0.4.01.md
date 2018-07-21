@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.ca.apim.gateway.modular-assertion-builder
+isJarAvailable: true
+error: ''
+violations: []
+
+---

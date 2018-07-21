@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.minecrell.vanillagradle.server
+isJarAvailable: true
+error: ''
+violations: []
+
+---

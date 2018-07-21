@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.wasdev.wlp.gradle.plugins.Liberty
+isJarAvailable: true
+error: ''
+violations: []
+
+---

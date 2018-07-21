@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.megatome.javadoc2dash
+isJarAvailable: true
+error: ''
+violations: []
+
+---

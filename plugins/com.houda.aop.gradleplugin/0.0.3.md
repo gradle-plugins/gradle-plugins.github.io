@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.houda.aop.gradleplugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

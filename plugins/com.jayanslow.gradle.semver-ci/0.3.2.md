@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.jayanslow.gradle.semver-ci
+isJarAvailable: true
+error: ''
+violations: []
+
+---

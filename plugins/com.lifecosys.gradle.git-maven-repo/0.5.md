@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.lifecosys.gradle.git-maven-repo
+isJarAvailable: true
+error: ''
+violations: []
+
+---

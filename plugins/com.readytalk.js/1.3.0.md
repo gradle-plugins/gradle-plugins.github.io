@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.readytalk.js
+isJarAvailable: true
+error: ''
+violations: []
+
+---

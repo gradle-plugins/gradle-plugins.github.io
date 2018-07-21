@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.uniquestudio.method-tracking
+isJarAvailable: true
+error: ''
+violations: []
+
+---

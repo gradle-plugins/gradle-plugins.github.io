@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: nebula.apache-license-pom
+isJarAvailable: true
+error: ''
+violations: []
+
+---

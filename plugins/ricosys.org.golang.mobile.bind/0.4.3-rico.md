@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: ricosys.org.golang.mobile.bind
+isJarAvailable: true
+error: ''
+violations: []
+
+---

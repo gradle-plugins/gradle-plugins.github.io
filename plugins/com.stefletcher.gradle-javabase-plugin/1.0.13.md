@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.stefletcher.gradle-javabase-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

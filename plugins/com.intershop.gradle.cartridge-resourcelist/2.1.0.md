@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.intershop.gradle.cartridge-resourcelist
+isJarAvailable: true
+error: ''
+violations: []
+
+---

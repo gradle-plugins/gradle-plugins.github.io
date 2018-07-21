@@ -1,0 +1,76 @@
+---
+layout: plugin
+pluginId: edu.wpi.first.GradleRIO
+isJarAvailable: true
+error: ''
+violations:
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/DefaultDomainObjectSet}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/DefaultDomainObjectSet}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/AbstractTask}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/toolchain/internal/gcc/metadata/GccMetadata}
+- {name: Using internal APIS (field) Lorg/gradle/nativeplatform/toolchain/internal/gcc/metadata/GccMetadataProvider;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/IdentityFileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/DefaultExecActionFactory}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/toolchain/internal/gcc/metadata/GccMetadata}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/toolchain/internal/gcc/metadata/GccMetadataProvider}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/FileResolver}
+- {name: Using internal APIS (instantiate) org/gradle/process/internal/ExecActionFactory}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/internal/CompilerOutputFileNamingSchemeFactory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/internal/operations/BuildOperationExecutor}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/toolchain/internal/metadata/CompilerMetaDataProviderFactory}
+- {name: Using internal APIS (instantiate) org/gradle/internal/work/WorkerLeaseService}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/toolchain/internal/gcc/metadata/SystemLibraryDiscovery}
+- {name: Using internal APIS (instantiate) org/gradle/internal/text/TreeFormatter}
+- {name: Using internal APIS (instantiate) org/gradle/internal/text/TreeFormatter}
+- {name: Using internal APIS (instantiate) org/gradle/internal/text/TreeFormatter}
+- {name: Using internal APIS (instantiate) org/gradle/internal/text/TreeFormatter}
+- {name: Using internal APIS (instantiate) org/gradle/internal/text/TreeFormatter}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+
+---

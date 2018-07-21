@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.umayrh.rplugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

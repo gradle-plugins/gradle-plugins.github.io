@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.m2ci.msp.flaml
+isJarAvailable: true
+error: ''
+violations: []
+
+---

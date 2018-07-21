@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.lxj.copykts
+isJarAvailable: true
+error: ''
+violations: []
+
+---

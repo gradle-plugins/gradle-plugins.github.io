@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.dmdirc.git-version
+isJarAvailable: true
+error: ''
+violations: []
+
+---

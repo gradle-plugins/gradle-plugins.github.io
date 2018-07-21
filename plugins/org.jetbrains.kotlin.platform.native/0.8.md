@@ -1,0 +1,67 @@
+---
+layout: plugin
+pluginId: org.jetbrains.kotlin.platform.native
+isJarAvailable: true
+error: ''
+violations:
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/NativeVariantIdentity}
+- {name: Using internal APIS (instantiate) org/gradle/api/publish/maven/internal/publication/MavenPublicationInternal}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/SourceDirectorySetFactory;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/attributes/ImmutableAttributesFactory;}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/DefaultUsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/component/UsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/component/UsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/NativeVariantIdentity}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/NativeVariantIdentity}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/FactoryNamedDomainObjectContainer}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/FeaturePreviews}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (field) Lorg/gradle/language/nativeplatform/internal/Names;}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/platform/internal/DefaultOperatingSystem}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/platform/internal/OperatingSystemInternal}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/provider/LockableSetProperty;}
+- {name: Using internal APIS (field) Lorg/gradle/language/internal/DefaultBinaryCollection;}
+- {name: Using internal APIS (field) Lorg/gradle/language/nativeplatform/internal/Names;}
+- {name: Using internal APIS (field) Lorg/gradle/language/internal/DefaultComponentDependencies;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/provider/LockableSetProperty}
+- {name: Using internal APIS (instantiate) org/gradle/language/internal/DefaultBinaryCollection}
+- {name: Using internal APIS (instantiate) org/gradle/language/internal/DefaultComponentDependencies}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/DefaultUsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/nativeplatform/platform/internal/DefaultNativePlatform}
+- {name: Using internal APIS (field) Lorg/gradle/language/nativeplatform/internal/Names;}
+- {name: Using internal APIS (field) Lorg/gradle/language/internal/DefaultComponentDependencies;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/file/FileOperations;}
+- {name: Using internal APIS (instantiate) org/gradle/language/internal/DefaultComponentDependencies}
+- {name: Using internal APIS (instantiate) org/gradle/language/internal/DefaultComponentDependencies}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/DefaultUsageContext}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/provider/LockableSetProperty;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/provider/LockableSetProperty}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/DefaultUsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/component/UsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/language/cpp/internal/NativeVariantIdentity}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/component/UsageContext}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/tasks/DefaultTaskDependency}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (instantiate) org/gradle/internal/reflect/Instantiator}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/FeaturePreviews}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}
+- {name: Using internal APIS (instantiate) org/gradle/api/publish/maven/internal/publication/MavenPublicationInternal}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (instantiate) org/gradle/api/internal/plugins/PluginManagerInternal}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+- {name: Using internal APIS (field) Lorg/gradle/api/internal/project/ProjectInternal;}
+
+---

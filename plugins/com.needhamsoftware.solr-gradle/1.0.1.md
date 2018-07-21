@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.needhamsoftware.solr-gradle
+isJarAvailable: true
+error: ''
+violations: []
+
+---

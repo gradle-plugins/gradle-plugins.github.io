@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.iantorno.xylographer
+isJarAvailable: true
+error: ''
+violations: []
+
+---

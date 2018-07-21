@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.ontogit.rudy
+isJarAvailable: true
+error: ''
+violations: []
+
+---

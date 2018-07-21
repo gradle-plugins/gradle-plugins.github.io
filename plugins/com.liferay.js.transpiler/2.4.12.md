@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.liferay.js.transpiler
+isJarAvailable: true
+error: ''
+violations: []
+
+---

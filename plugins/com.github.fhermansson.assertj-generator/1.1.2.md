@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.fhermansson.assertj-generator
+isJarAvailable: true
+error: ''
+violations: []
+
+---

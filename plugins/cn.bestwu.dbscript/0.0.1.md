@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: cn.bestwu.dbscript
+isJarAvailable: true
+error: ''
+violations: []
+
+---

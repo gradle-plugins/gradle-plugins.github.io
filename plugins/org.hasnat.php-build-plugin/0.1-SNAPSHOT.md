@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.hasnat.php-build-plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

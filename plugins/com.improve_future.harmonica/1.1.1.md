@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.improve_future.harmonica
+isJarAvailable: true
+error: ''
+violations: []
+
+---

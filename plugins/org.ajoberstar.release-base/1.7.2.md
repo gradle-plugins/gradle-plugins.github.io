@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.ajoberstar.release-base
+isJarAvailable: true
+error: ''
+violations: []
+
+---

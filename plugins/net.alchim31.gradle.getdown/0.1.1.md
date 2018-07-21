@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.alchim31.gradle.getdown
+isJarAvailable: true
+error: ''
+violations: []
+
+---

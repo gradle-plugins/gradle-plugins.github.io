@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: ch.netzwerg.release
+isJarAvailable: true
+error: ''
+violations: []
+
+---

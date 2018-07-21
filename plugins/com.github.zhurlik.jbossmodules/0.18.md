@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.github.zhurlik.jbossmodules
+isJarAvailable: true
+error: ''
+violations: []
+
+---

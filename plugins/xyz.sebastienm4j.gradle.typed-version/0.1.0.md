@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: xyz.sebastienm4j.gradle.typed-version
+isJarAvailable: true
+error: ''
+violations: []
+
+---

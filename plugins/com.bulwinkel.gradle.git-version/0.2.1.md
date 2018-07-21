@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.bulwinkel.gradle.git-version
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.10ne.rest
+isJarAvailable: true
+error: ''
+violations: []
+
+---

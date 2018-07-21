@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: org.m2ci.msp.praat
+isJarAvailable: true
+error: ''
+violations: []
+
+---

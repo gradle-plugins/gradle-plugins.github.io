@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.wooga.plugins
+isJarAvailable: true
+error: ''
+violations: []
+
+---

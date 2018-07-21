@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.datastax.gradle.curriculum.plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.zx.gradle.plugin
+isJarAvailable: true
+error: ''
+violations: []
+
+---

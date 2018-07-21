@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: net.eikehirsch.react
+isJarAvailable: true
+error: ''
+violations: []
+
+---

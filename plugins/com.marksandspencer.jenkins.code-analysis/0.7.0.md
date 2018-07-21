@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.marksandspencer.jenkins.code-analysis
+isJarAvailable: true
+error: ''
+violations: []
+
+---
