@@ -3,5 +3,10 @@
   <body>
     <h1>{{ page.pluginId }}</h1>
     <h2>This plugin has {{ page.violations | size }} DANs</h2>
+    <ul>
+      {% for violation in page.violations %}
+        <li>{{ violation.type }} - {{ violation.name }}</li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
