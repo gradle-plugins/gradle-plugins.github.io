@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: jp.classmethod.aws.ec2
-isJarAvailable: true
-error: ''
-violations: []
-
----

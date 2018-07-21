@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.abas.esdk
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.pomes.tagger
-isJarAvailable: true
-error: ''
-violations: []
-
----

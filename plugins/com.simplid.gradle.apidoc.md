@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.simplid.gradle.apidoc
-isJarAvailable: true
-error: ''
-violations: []
-
----

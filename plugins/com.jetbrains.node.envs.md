@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.jetbrains.node.envs
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.test
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.kropp.teamcity-gitversion
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.ullink.nunit
-isJarAvailable: true
-error: ''
-violations: []
-
----

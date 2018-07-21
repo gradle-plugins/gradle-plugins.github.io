@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.dfki.mary.voicebuilding-legacy
-isJarAvailable: true
-error: ''
-violations: []
-
----

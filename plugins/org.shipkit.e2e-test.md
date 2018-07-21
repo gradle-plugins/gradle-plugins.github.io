@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.shipkit.e2e-test
-isJarAvailable: true
-error: ''
-violations: []
-
----

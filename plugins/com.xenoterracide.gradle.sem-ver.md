@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.xenoterracide.gradle.sem-ver
-isJarAvailable: true
-error: ''
-violations: []
-
----

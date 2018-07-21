@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: craft.magic.craftMagic
-isJarAvailable: true
-error: ''
-violations: []
-
----

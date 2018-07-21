@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.buddybuild.androiddumper
-isJarAvailable: true
-error: ''
-violations: []
-
----

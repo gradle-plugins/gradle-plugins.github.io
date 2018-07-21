@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.escrow-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

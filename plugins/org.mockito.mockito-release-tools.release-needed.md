@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.mockito.mockito-release-tools.release-needed
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.databasepumper
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.marklogic.ml-data-hub-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.detoeuf.gradle-git-properties
-isJarAvailable: true
-error: ''
-violations: []
-
----

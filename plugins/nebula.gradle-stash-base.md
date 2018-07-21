@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: nebula.gradle-stash-base
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.kotka.clojuresque.extras.deps
-isJarAvailable: true
-error: ''
-violations: []
-
----

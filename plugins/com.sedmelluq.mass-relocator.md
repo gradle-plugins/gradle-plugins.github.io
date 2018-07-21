@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.sedmelluq.mass-relocator
-isJarAvailable: true
-error: ''
-violations: []
-
----

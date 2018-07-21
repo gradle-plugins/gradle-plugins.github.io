@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.scm.git-manifest
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: ga.csys.tooling.apply-defaults-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.undercouch.download
-isJarAvailable: true
-error: ''
-violations: []
-
----

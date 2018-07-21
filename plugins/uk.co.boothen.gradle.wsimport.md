@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: uk.co.boothen.gradle.wsimport
-isJarAvailable: true
-error: ''
-violations: []
-
----

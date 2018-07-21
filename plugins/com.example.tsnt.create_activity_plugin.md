@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.example.tsnt.create_activity_plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

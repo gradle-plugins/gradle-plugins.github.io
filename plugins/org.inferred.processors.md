@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.inferred.processors
-isJarAvailable: true
-error: ''
-violations: []
-
----

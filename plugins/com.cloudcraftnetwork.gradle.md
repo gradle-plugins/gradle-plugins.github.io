@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.cloudcraftnetwork.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

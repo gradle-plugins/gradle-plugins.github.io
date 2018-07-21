@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.gmazzo.sqlite
-isJarAvailable: true
-error: ''
-violations: []
-
----

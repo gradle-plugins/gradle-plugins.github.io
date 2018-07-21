@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.dvaske.gradle.git-build-info
-isJarAvailable: true
-error: ''
-violations: []
-
----

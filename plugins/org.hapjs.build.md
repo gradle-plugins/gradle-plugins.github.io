@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.hapjs.build
-isJarAvailable: true
-error: ''
-violations: []
-
----

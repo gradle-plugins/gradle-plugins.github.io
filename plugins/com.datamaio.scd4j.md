@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.datamaio.scd4j
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: pl.softmate.gradle-properties-yaml-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.openstreetmap.josm.gradle.plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.kotka.clojuresque.extras.taskwatcher
-isJarAvailable: true
-error: ''
-violations: []
-
----

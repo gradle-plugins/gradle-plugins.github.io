@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.jbake.site
-isJarAvailable: true
-error: ''
-violations: []
-
----

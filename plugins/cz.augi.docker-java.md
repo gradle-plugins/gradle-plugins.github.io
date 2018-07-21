@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: cz.augi.docker-java
-isJarAvailable: true
-error: ''
-violations: []
-
----

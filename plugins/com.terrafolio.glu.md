@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.terrafolio.glu
-isJarAvailable: true
-error: ''
-violations: []
-
----

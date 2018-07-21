@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.bonborunote.stf-android-test-client
-isJarAvailable: true
-error: ''
-violations: []
-
----

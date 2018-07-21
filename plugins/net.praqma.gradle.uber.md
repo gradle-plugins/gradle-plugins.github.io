@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: net.praqma.gradle.uber
-isJarAvailable: true
-error: ''
-violations: []
-
----

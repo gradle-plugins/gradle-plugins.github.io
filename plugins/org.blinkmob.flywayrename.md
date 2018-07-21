@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.blinkmob.flywayrename
-isJarAvailable: true
-error: ''
-violations: []
-
----

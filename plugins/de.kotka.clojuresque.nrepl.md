@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.kotka.clojuresque.nrepl
-isJarAvailable: true
-error: ''
-violations: []
-
----

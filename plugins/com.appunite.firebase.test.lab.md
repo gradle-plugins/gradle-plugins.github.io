@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.appunite.firebase.test.lab
-isJarAvailable: true
-error: ''
-violations: []
-
----

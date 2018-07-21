@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.webcohesion.enunciate
-isJarAvailable: true
-error: ''
-violations: []
-
----

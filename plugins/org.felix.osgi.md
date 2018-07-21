@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.felix.osgi
-isJarAvailable: true
-error: ''
-violations: []
-
----

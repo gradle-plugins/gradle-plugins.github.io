@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.freefair.jsass-base
-isJarAvailable: true
-error: ''
-violations: []
-
----

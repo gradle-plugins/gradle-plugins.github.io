@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.vanniktech.android.javadoc.library
-isJarAvailable: true
-error: ''
-violations: []
-
----

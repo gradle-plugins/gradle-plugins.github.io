@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: emetriq.changelog-release
-isJarAvailable: true
-error: ''
-violations: []
-
----

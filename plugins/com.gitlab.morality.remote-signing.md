@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.gitlab.morality.remote-signing
-isJarAvailable: true
-error: ''
-violations: []
-
----

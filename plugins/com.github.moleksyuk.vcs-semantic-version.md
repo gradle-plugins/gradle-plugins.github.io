@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.moleksyuk.vcs-semantic-version
-isJarAvailable: true
-error: ''
-violations: []
-
----

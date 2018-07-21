@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: fr.coppernic.git.extractor
-isJarAvailable: true
-error: ''
-violations: []
-
----

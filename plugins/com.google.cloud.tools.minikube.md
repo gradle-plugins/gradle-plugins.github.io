@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.google.cloud.tools.minikube
-isJarAvailable: true
-error: ''
-violations: []
-
----

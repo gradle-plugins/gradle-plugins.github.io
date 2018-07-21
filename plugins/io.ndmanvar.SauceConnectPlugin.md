@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.ndmanvar.SauceConnectPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

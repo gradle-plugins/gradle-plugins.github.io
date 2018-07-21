@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.uulib.gittag
-isJarAvailable: true
-error: ''
-violations: []
-
----

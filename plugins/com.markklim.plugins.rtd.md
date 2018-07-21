@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.markklim.plugins.rtd
-isJarAvailable: true
-error: ''
-violations: []
-
----

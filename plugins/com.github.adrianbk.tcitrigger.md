@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.adrianbk.tcitrigger
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: edu.wpi.first.wpilib.versioning.WPILibVersioningPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

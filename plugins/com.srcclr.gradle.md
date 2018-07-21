@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.srcclr.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

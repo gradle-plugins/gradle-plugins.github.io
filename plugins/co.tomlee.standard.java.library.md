@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: co.tomlee.standard.java.library
-isJarAvailable: true
-error: ''
-violations: []
-
----

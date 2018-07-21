@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.kue
-isJarAvailable: true
-error: ''
-violations: []
-
----

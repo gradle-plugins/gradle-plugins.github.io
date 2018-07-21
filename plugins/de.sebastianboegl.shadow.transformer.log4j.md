@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.sebastianboegl.shadow.transformer.log4j
-isJarAvailable: true
-error: ''
-violations: []
-
----

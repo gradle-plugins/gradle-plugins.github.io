@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.ysb33r.cloudci.appveyor.testreporter
-isJarAvailable: true
-error: ''
-violations: []
-
----

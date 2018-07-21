@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: dk.danskespil.gradle.plugins.terraform
-isJarAvailable: true
-error: ''
-violations: []
-
----

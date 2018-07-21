@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.getcraftdone.plugin-insight
-isJarAvailable: true
-error: ''
-violations: []
-
----

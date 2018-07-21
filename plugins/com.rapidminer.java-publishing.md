@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.rapidminer.java-publishing
-isJarAvailable: true
-error: ''
-violations: []
-
----

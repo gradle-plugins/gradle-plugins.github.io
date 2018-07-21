@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: ru.biglion.versioning
-isJarAvailable: true
-error: ''
-violations: []
-
----

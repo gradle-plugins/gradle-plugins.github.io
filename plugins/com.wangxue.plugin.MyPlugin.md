@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.wangxue.plugin.MyPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.mockito.release-tools.auto-versioning
-isJarAvailable: true
-error: ''
-violations: []
-
----

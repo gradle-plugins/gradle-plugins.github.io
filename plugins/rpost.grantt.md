@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: rpost.grantt
-isJarAvailable: true
-error: ''
-violations: []
-
----

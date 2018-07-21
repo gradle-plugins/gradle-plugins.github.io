@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.auth0.gradle.oss-library
-isJarAvailable: true
-error: ''
-violations: []
-
----

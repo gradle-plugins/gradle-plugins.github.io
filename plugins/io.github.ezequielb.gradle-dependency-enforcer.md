@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.github.ezequielb.gradle-dependency-enforcer
-isJarAvailable: true
-error: ''
-violations: []
-
----

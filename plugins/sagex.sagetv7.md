@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: sagex.sagetv7
-isJarAvailable: true
-error: ''
-violations: []
-
----

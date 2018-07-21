@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.shipkit.github-pom-contributors
-isJarAvailable: true
-error: ''
-violations: []
-
----

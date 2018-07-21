@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.rapid.develop.baidu-cloud-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

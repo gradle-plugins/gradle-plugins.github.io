@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: uk.co.littlemike.git-tag-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

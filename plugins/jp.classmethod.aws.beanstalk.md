@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: jp.classmethod.aws.beanstalk
-isJarAvailable: true
-error: ''
-violations: []
-
----

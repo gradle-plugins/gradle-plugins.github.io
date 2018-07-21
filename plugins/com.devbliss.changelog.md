@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.devbliss.changelog
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.enonic.xp.app
-isJarAvailable: true
-error: ''
-violations: []
-
----

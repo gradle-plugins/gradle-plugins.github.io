@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: no.nils.wsdl2java
-isJarAvailable: true
-error: ''
-violations: []
-
----

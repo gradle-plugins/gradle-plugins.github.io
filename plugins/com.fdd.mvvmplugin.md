@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.fdd.mvvmplugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

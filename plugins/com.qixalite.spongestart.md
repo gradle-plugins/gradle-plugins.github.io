@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.qixalite.spongestart
-isJarAvailable: true
-error: ''
-violations: []
-
----

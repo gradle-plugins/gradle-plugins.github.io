@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.marklogic.ml-gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

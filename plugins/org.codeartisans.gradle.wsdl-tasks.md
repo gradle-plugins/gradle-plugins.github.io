@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.codeartisans.gradle.wsdl-tasks
-isJarAvailable: true
-error: ''
-violations: []
-
----

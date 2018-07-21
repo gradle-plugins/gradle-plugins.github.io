@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.sglahn.gradle-dockerfile-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.honourednihilist.gradle-postgresql-embedded
-isJarAvailable: true
-error: ''
-violations: []
-
----

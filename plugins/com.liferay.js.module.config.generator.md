@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.liferay.js.module.config.generator
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,9 +1,0 @@
----
-layout: plugin
-pluginId: com.linkedin.gradle.hadoop.HadoopPlugin
-isJarAvailable: true
-error: ''
-violations:
-- {name: Using internal APIS (instantiate) org/gradle/api/internal/file/copy/CopySpecInternal}
-
----

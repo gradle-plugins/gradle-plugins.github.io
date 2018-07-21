@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.jruby-gradle.base
-isJarAvailable: true
-error: ''
-violations: []
-
----

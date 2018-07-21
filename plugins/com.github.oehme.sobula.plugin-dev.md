@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.oehme.sobula.plugin-dev
-isJarAvailable: true
-error: ''
-violations: []
-
----

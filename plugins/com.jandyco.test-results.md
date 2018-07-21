@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.jandyco.test-results
-isJarAvailable: true
-error: ''
-violations: []
-
----

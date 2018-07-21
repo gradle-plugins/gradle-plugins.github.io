@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.boxfuse.client
-isJarAvailable: true
-error: ''
-violations: []
-
----

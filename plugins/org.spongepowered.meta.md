@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.spongepowered.meta
-isJarAvailable: true
-error: ''
-violations: []
-
----

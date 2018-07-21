@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: jp.empressia.netbeans.configuration
-isJarAvailable: true
-error: ''
-violations: []
-
----

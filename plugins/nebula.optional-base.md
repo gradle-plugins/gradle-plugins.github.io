@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: nebula.optional-base
-isJarAvailable: true
-error: ''
-violations: []
-
----

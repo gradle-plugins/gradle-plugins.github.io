@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.mahnkong.gteg2neo4j
-isJarAvailable: true
-error: ''
-violations: []
-
----

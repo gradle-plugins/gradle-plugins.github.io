@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.opengl-BOBO.assertjGen
-isJarAvailable: true
-error: ''
-violations: []
-
----

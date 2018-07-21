@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: yakworks.shipkit
-isJarAvailable: true
-error: ''
-violations: []
-
----

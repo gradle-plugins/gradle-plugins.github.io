@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.opengl-BOBO.annotation-processing-eclipse
-isJarAvailable: true
-error: ''
-violations: []
-
----

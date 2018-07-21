@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.ewerk.gradle.plugins.querydsl
-isJarAvailable: true
-error: ''
-violations: []
-
----

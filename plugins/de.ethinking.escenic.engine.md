@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.ethinking.escenic.engine
-isJarAvailable: true
-error: ''
-violations: []
-
----

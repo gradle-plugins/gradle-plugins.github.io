@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.banderous.gpm
-isJarAvailable: true
-error: ''
-violations: []
-
----

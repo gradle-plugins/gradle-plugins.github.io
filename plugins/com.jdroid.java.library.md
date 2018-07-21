@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.jdroid.java.library
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.beryx.jlink
-isJarAvailable: true
-error: ''
-violations: []
-
----

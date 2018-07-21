@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.gliderpilot.jnlp
-isJarAvailable: true
-error: ''
-violations: []
-
----

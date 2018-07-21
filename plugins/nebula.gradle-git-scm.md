@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: nebula.gradle-git-scm
-isJarAvailable: true
-error: ''
-violations: []
-
----

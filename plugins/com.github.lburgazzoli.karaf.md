@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.lburgazzoli.karaf
-isJarAvailable: true
-error: ''
-violations: []
-
----

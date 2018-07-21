@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: dk.danskespil.gradle.plugins.release-classic
-isJarAvailable: true
-error: ''
-violations: []
-
----

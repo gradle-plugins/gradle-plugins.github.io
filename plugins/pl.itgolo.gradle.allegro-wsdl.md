@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: pl.itgolo.gradle.allegro-wsdl
-isJarAvailable: true
-error: ''
-violations: []
-
----

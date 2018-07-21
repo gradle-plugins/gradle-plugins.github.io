@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.speedment.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

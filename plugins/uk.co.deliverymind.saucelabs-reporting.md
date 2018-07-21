@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: uk.co.deliverymind.saucelabs-reporting
-isJarAvailable: true
-error: ''
-violations: []
-
----

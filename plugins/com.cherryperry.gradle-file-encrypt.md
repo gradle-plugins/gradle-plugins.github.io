@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.cherryperry.gradle-file-encrypt
-isJarAvailable: true
-error: ''
-violations: []
-
----

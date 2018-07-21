@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.mockito.mockito-release-tools.gradle-plugin-releasing
-isJarAvailable: true
-error: ''
-violations: []
-
----

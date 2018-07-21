@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: jp.classmethod.aws.cloudformation
-isJarAvailable: true
-error: ''
-violations: []
-
----

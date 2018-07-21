@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: me.champeau.buildscan-recipes
-isJarAvailable: true
-error: ''
-violations: []
-
----

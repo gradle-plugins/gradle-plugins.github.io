@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.redpillanalytics.checkmate.core
-isJarAvailable: true
-error: ''
-violations: []
-
----

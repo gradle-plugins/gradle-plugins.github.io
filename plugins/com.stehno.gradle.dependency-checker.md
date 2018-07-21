@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.stehno.gradle.dependency-checker
-isJarAvailable: true
-error: ''
-violations: []
-
----

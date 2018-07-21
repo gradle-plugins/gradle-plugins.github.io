@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.selesse.git.changelog
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.inutilfutil.android-resource-placeholder
-isJarAvailable: true
-error: ''
-violations: []
-
----

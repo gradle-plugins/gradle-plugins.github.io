@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: kkdt.gradle.eclipseone
-isJarAvailable: true
-error: ''
-violations: []
-
----

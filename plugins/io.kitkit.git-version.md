@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.kitkit.git-version
-isJarAvailable: true
-error: ''
-violations: []
-
----

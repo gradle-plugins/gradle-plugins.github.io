@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.robotrun.robot
-isJarAvailable: true
-error: ''
-violations: []
-
----

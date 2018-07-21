@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.simpleartifactorypublish-configuration
-isJarAvailable: true
-error: ''
-violations: []
-
----

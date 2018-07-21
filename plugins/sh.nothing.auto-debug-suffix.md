@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: sh.nothing.auto-debug-suffix
-isJarAvailable: true
-error: ''
-violations: []
-
----

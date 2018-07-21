@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.pt-osda.java-dependencies-analysis
-isJarAvailable: true
-error: ''
-violations: []
-
----

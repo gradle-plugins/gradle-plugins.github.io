@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.gotokeep.gradle.plugins.combuild
-isJarAvailable: true
-error: ''
-violations: []
-
----

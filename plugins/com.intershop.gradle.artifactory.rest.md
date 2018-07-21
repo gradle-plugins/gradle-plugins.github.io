@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.artifactory.rest
-isJarAvailable: true
-error: ''
-violations: []
-
----

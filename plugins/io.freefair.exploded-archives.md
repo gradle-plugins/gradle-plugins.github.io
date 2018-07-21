@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.freefair.exploded-archives
-isJarAvailable: true
-error: ''
-violations: []
-
----

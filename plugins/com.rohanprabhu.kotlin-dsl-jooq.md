@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.rohanprabhu.kotlin-dsl-jooq
-isJarAvailable: true
-error: ''
-violations: []
-
----

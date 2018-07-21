@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.ethankhall.semantic-versioning
-isJarAvailable: true
-error: ''
-violations: []
-
----

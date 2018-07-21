@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.lain.gradle.plugin.executable-jar
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.scm4j.releaser.scm4j-releaser-gradle-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

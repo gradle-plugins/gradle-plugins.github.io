@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: name.mazgalov.vaadin.sass.compiler
-isJarAvailable: false
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.bytekast.serverless-local-apigateway
-isJarAvailable: true
-error: ''
-violations: []
-
----

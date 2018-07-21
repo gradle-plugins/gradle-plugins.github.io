@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.energizedwork.idea-base
-isJarAvailable: true
-error: ''
-violations: []
-
----

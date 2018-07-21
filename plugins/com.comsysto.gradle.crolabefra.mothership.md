@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.comsysto.gradle.crolabefra.mothership
-isJarAvailable: true
-error: ''
-violations: []
-
----

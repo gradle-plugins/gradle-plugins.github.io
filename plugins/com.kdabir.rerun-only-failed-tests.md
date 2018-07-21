@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.kdabir.rerun-only-failed-tests
-isJarAvailable: true
-error: ''
-violations: []
-
----

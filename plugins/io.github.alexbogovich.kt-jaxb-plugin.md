@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.github.alexbogovich.kt-jaxb-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

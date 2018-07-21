@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.monkeyworks.buildmonkey.p2.P2DeployerPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

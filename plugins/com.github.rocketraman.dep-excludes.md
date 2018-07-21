@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.rocketraman.dep-excludes
-isJarAvailable: true
-error: ''
-violations: []
-
----

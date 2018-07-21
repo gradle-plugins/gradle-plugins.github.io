@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: fr.jcgay.gradle-notifier
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.akhikhl.wuff.swt-lib
-isJarAvailable: true
-error: ''
-violations: []
-
----

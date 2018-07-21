@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.gitlab.morality.grit
-isJarAvailable: true
-error: ''
-violations: []
-
----

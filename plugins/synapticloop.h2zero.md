@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: synapticloop.h2zero
-isJarAvailable: true
-error: ''
-violations: []
-
----

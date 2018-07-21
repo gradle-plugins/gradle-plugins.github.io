@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.dcow.sublime
-isJarAvailable: true
-error: ''
-violations: []
-
----

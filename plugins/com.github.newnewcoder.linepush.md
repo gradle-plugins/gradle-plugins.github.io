@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.newnewcoder.linepush
-isJarAvailable: true
-error: ''
-violations: []
-
----

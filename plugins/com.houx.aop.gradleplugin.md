@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.houx.aop.gradleplugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

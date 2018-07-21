@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.intershop.gradle.javadoc-configuration
-isJarAvailable: true
-error: ''
-violations: []
-
----

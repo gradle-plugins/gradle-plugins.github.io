@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: eu.t-systems-mms.git-semver
-isJarAvailable: true
-error: ''
-violations: []
-
----

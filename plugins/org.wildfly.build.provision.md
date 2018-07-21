@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.wildfly.build.provision
-isJarAvailable: true
-error: ''
-violations: []
-
----

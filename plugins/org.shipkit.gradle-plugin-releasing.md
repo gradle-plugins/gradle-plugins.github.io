@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.shipkit.gradle-plugin-releasing
-isJarAvailable: true
-error: ''
-violations: []
-
----

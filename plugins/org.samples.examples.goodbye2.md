@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.samples.examples.goodbye2
-isJarAvailable: true
-error: ''
-violations: []
-
----

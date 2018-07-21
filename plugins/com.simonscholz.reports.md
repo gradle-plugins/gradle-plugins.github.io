@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.simonscholz.reports
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.michaelmuenzer.screenshots.frame
-isJarAvailable: true
-error: ''
-violations: []
-
----

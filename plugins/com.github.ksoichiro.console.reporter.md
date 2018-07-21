@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.ksoichiro.console.reporter
-isJarAvailable: true
-error: ''
-violations: []
-
----

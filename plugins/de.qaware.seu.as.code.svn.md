@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.qaware.seu.as.code.svn
-isJarAvailable: true
-error: ''
-violations: []
-
----

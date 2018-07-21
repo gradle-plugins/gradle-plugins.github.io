@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.festin666.yii2build
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.logicify.liquibase.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

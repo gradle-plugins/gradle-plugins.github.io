@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.ajoberstar.grgit-release
-isJarAvailable: true
-error: ''
-violations: []
-
----

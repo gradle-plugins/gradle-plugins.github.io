@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.liferay.soy
-isJarAvailable: true
-error: ''
-violations: []
-
----

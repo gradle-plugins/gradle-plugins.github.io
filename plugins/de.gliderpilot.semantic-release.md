@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.gliderpilot.semantic-release
-isJarAvailable: true
-error: ''
-violations: []
-
----

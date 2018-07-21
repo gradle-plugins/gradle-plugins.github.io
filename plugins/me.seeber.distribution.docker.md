@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: me.seeber.distribution.docker
-isJarAvailable: true
-error: ''
-violations: []
-
----

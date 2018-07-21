@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.sevenheaven.autokeystoreplugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.paralleltasks
-isJarAvailable: true
-error: ''
-violations: []
-
----

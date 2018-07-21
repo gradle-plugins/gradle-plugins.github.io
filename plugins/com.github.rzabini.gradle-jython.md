@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.rzabini.gradle-jython
-isJarAvailable: true
-error: ''
-violations: []
-
----

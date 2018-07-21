@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.fowlie.gradle-jenkins-test
-isJarAvailable: true
-error: ''
-violations: []
-
----

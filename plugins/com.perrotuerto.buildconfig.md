@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.perrotuerto.buildconfig
-isJarAvailable: true
-error: ''
-violations: []
-
----

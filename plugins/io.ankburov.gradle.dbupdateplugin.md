@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: io.ankburov.gradle.dbupdateplugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

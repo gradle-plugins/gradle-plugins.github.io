@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: tangram.gradle.plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: fr.ligol.iconics_generator
-isJarAvailable: true
-error: ''
-violations: []
-
----

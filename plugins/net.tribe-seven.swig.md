@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: net.tribe-seven.swig
-isJarAvailable: true
-error: ''
-violations: []
-
----

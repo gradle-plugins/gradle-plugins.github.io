@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.imflog.kafka-schema-registry-gradle-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

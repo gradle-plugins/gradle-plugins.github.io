@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.uulib.gradle.markdown
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.ensime.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

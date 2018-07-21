@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.nobleworks_software.gradle-gitflow-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

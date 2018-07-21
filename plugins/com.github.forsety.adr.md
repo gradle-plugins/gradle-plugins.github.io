@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.forsety.adr
-isJarAvailable: true
-error: ''
-violations: []
-
----

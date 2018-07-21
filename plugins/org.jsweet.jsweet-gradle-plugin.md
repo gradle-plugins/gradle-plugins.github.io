@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.jsweet.jsweet-gradle-plugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

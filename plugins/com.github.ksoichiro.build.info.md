@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.github.ksoichiro.build.info
-isJarAvailable: true
-error: ''
-violations: []
-
----

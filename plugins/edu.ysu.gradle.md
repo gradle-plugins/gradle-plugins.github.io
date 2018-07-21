@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: edu.ysu.gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.techshroom.incise-blue
-isJarAvailable: true
-error: ''
-violations: []
-
----

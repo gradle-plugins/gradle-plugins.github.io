@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: bue.akhikhl.wuff.eclipse-bundle
-isJarAvailable: true
-error: ''
-violations: []
-
----

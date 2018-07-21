@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: schoenja.sweng.eclipsito.EclipsitoPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

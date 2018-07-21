@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.saucelabs.SauceConnectPlugin
-isJarAvailable: true
-error: ''
-violations: []
-
----

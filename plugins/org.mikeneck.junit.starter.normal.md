@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: org.mikeneck.junit.starter.normal
-isJarAvailable: true
-error: ''
-violations: []
-
----

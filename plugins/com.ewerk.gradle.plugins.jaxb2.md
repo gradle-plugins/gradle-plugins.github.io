@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.ewerk.gradle.plugins.jaxb2
-isJarAvailable: true
-error: ''
-violations: []
-
----

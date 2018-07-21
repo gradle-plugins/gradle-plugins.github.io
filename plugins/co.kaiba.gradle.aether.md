@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: co.kaiba.gradle.aether
-isJarAvailable: true
-error: ''
-violations: []
-
----

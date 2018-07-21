@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: biz.aQute.bnd.workspace
-isJarAvailable: true
-error: ''
-violations: []
-
----

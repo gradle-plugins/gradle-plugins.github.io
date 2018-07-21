@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: net.praqma.customgradledistribution
-isJarAvailable: true
-error: ''
-violations: []
-
----

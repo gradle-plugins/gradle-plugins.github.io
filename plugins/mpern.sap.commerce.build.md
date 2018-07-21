@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: mpern.sap.commerce.build
-isJarAvailable: true
-error: ''
-violations: []
-
----

@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: de.esailors.gradle.plugins.phraseapp
-isJarAvailable: true
-error: ''
-violations: []
-
----

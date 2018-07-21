@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: com.jaredsburrows.license
-isJarAvailable: true
-error: ''
-violations: []
-
----

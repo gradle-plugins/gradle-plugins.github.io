@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: net.slkdev.swagger-confluence
-isJarAvailable: true
-error: ''
-violations: []
-
----

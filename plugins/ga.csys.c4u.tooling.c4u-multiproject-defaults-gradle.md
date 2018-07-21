@@ -1,8 +1,0 @@
----
-layout: plugin
-pluginId: ga.csys.c4u.tooling.c4u-multiproject-defaults-gradle
-isJarAvailable: true
-error: ''
-violations: []
-
----
