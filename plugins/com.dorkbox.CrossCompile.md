@@ -1,0 +1,8 @@
+---
+layout: plugin
+pluginId: com.dorkbox.CrossCompile
+isJarAvailable: true
+error: ''
+violations: []
+
+---

@@ -111,6 +111,7 @@ violations:
 - {name: Using internal APIS (instantiate) org/gradle/internal/taskgraph/CalculateTaskGraphBuildOperationType$Details}
 - {name: Using internal APIS (instantiate) org/gradle/internal/taskgraph/CalculateTaskGraphBuildOperationType$Result}
 - {name: Using internal APIS (instantiate) org/gradle/internal/execution/ExecuteTaskBuildOperationType$Details}
+- {name: Using internal APIS (instantiate) org/gradle/internal/execution/ExecuteTaskBuildOperationType$Details}
 - {name: Using internal APIS (instantiate) org/gradle/api/internal/GradleInternal}
 - {name: Using internal APIS (instantiate) org/gradle/api/internal/GradleInternal}
 - {name: Using internal APIS (instantiate) org/gradle/api/internal/project/ProjectInternal}

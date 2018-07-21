@@ -1,7 +1,7 @@
 ---
 layout: plugin
 pluginId: name.mazgalov.vaadin.sass.compiler
-isJarAvailable: true
+isJarAvailable: false
 error: ''
 violations: []
 
