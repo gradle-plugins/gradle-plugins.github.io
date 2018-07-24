@@ -28,6 +28,10 @@ Now, we are concentrating around the fundamental analysis of all the plugins.
 This is a pet-project so my time is quite limited.
 However, being a native developer at my core, I would greatly appreciate any help around the Web design... if you haven't figured that out yet.
 
+## Is this page up-to-date?
+Just look at the Travis job:
+[![Build Status](https://travis-ci.org/gradle-plugins/gradle-plugins.svg?branch=master)](https://travis-ci.org/gradle-plugins/gradle-plugins)
+
 # Stay tuned!
 
 ### In the meanwhile look at these reports
