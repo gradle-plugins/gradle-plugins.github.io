@@ -3,19 +3,42 @@
   <body>
     {{ content }}
 
-    {{ assign noError = site.pages | where_exp: "item", "(item.violations | size) == 0" }}
-    <h2>No Error Reports ({{noError | size}})</h2>
+    <h2>Table of Content</h2>
     <ul>
-      {% for page in noError %}
+      <li><a href="#no-errors">No Error Reports</a></li>
+      <li><a href="#no-jars">No Jar Reports</a></li>
+      <li><a href="#no-analysis">No Analysis Reports</a></li>
+      <li><a href="#violations">Violation Reports</a></li>
+    </ul>
+
+    {% assign noErrorPages = site.pages | where_exp: "item", "item.violations.size == 0" %}
+    <h2 id="no-errors">No Error Reports ({{ noErrorPages | size }})</h2>
+    <ul>
+      {% for page in noErrorPages %}
         <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
       {% endfor %}
     </ul>
 
-    <h2>Now</h2>
-
-    <h2>All reports</h2>
+    {% assign noJarPages = site.pages | where_exp: "item", "item.isJarAvailable == false" %}
+    <h2 id="no-jars">No Jar Reports ({{ noJarPages | size }})</h2>
     <ul>
-      {% for page in site.pages %}
+      {% for page in noJarPages %}
+      <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
+      {% endfor %}
+    </ul>
+
+    {% assign analysisErrorPages = site.pages | where_exp: "item", "item.error == 'NONE'" %}
+    <h2 id="no-analysis">No Analysis Reports ({{ analysisErrorPages | size }})</h2>
+    <ul>
+      {% for page in analysisErrorPages %}
+      <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
+      {% endfor %}
+    </ul>
+
+    {% assign violationPages = site.pages | where_exp: "item", "item.violations.size >= 1" %}
+    <h2 id="violations">Violation Reports ({{ violationPages | size }})</h2>
+    <ul>
+      {% for page in violationPages %}
         <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
       {% endfor %}
     </ul>
