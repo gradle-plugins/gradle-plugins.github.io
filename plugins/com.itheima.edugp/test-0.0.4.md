@@ -1,6 +1,7 @@
 ---
 layout: plugin
 pluginId: com.itheima.edugp
+jarSha1: d71517020295583cb608935968818b4019a3e061
 isJarAvailable: true
 error: NONE
 violations:
