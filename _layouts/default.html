@@ -3,6 +3,15 @@
   <body>
     {{ content }}
 
+    {{ assign noError = site.pages | where_exp: "violations", "(violations | size) == 0" }}
+    <h2>No Error Reports ({{noError | size}})</h2>
+    <ul>
+      {% for page in noError %}
+        <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
+      {% endfor %}
+    </ul>
+
+    <h2>All reports</h2>
     <ul>
       {% for page in site.pages %}
         <li><a href="{{ page.url }}">{{ page.pluginId }}</a></li>
