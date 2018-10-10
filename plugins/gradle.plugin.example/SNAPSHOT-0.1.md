@@ -2,7 +2,7 @@
 layout: plugin
 pluginId: gradle.plugin.example
 jarSha1: INVALID
-isJarAvailable: true
+isJarAvailable: false
 error: NONE
 violations: []
 
